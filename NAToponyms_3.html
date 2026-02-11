@@ -29,10 +29,20 @@
         right: 0;
       }
 
+      #menu {
+        position: absolute; 
+        top: 15px; 
+        left: 15px; 
+        background: white; 
+        padding: 10px; 
+        font-family: sans-serif; 
+        z-index: 10;
+      }
+
       #searchContainer {
         position: absolute;
         top: 15px;
-        left: 15px;
+        right: 35px;
         z-index: 10;
         width: 300px;
         font-family: sans-serif;
@@ -67,6 +77,16 @@
   <body>
     <div id="mapContainer"></div>
 
+    <div id="menu">
+      <strong>Legend</strong><br/>
+      <label><input type="checkbox" class="tribe-toggle" data-tribe="Arapaho" checked> <span style="color: #0077B6;">●</span> Arapaho</label><br/>
+      <label><input type="checkbox" class="tribe-toggle" data-tribe="Cheyenne" checked> <span style="color: #D84418;">●</span> Cheyenne</label><br/>
+      <label><input type="checkbox" class="tribe-toggle" data-tribe="Crow" checked> <span style="color: #550000;">●</span> Crow</label><br/>
+      <label><input type="checkbox" class="tribe-toggle" data-tribe="Kiowa" checked> <span style="color: #00FF7F;">●</span> Kiowa</label><br/>
+      <label><input type="checkbox" class="tribe-toggle" data-tribe="Pawnee" checked> <span style="color: #FC6C85;">●</span> Pawnee</label><br/>
+      <label><input type="checkbox" class="tribe-toggle" data-tribe="Ute" checked> <span style="color: #FF8000;">●</span> Ute</label><br/>
+    </div>
+
     <div id="searchContainer">
       <input
         type="text"
@@ -87,7 +107,7 @@
         zoom: 6
       });
 
-      map.addControl(new mapboxgl.NavigationControl());
+      map.addControl(new mapboxgl.NavigationControl(), 'bottom-right');
 
       // Load geojson
       let fuse;
@@ -129,6 +149,24 @@
             'circle-stroke-color': '#ffffff'
           }
         });
+
+        // Filter points based on checkboxes
+        const checkboxes = document.querySelectorAll('.tribe-toggle');
+        checkboxes.forEach(checkbox => {
+          checkbox.addEventListener('change', updateFilter);
+        });
+
+        function updateFilter() {
+          const checkedTribes = Array.from(checkboxes)
+            .filter(cb => cb.checked)
+            .map(cb => cb.dataset.tribe);
+          
+          if (checkedTribes.length === 0) {
+            map.setFilter('points', ['==', 'TRIBE', '']);
+          } else {
+            map.setFilter('points', ['in', ['get', 'TRIBE'], ['literal', checkedTribes]]);
+          }
+        }
 
         // Popup on click
         map.on('click', 'points', (e) => {
