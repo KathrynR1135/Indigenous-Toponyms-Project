@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <!--Mapbox access-->
+    <title>Native American Toponyms in Colorado</title>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.js"></script>
+
+    <!-- Fuse for the search bar-->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      #mapContainer {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+      }
+
+      #searchContainer {
+        position: absolute;
+        top: 15px;
+        left: 15px;
+        z-index: 10;
+        width: 300px;
+        font-family: sans-serif;
+      }
+
+      #searchInput {
+        width: 100%;
+        padding: 8px;
+        font-size: 14px;
+      }
+
+      #searchResults {
+        background: white;
+        max-height: 250px;
+        overflow-y: auto;
+        border: 1px solid #ccc;
+      }
+
+      .result-item {
+        padding: 6px 8px;
+        cursor: pointer;
+        border-bottom: 1px solid #eee;
+      }
+
+      .result-item:hover {
+        background: #f0f0f0;
+      }
+
+      .topo-menu {
+        position: absolute;
+        top: 60px;
+        left: 15px;
+        background: #fff;
+        padding: 10px;
+        font-family: sans-serif;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        z-index: 1;
+        }
+    </style>
+  </head>
+
+
+  <body>
+
+    <div class="topo-menu">
+      <input type="checkbox" id="layer-toggle">
+      <label for="layer-toggle">Show Roads & Labels</label>
+    </div>
+
+    <div id="mapContainer"></div>
+
+    <div id="searchContainer">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search by name or name meaning"
+      />
+      <div id="searchResults"></div>
+    </div>
+
+    <script>
+      mapboxgl.accessToken =
+        'pk.eyJ1Ijoia2F0aHJ5bjExMzUiLCJhIjoiY21mMzQ0emhkMDg5ZjJxcTVkYmpxenJoNSJ9.GoUAILryU_UK5jy7-StXaA';
+
+      const map = new mapboxgl.Map({
+        container: 'mapContainer',
+        style: 'mapbox://styles/mapbox/streets-v12',
+        center: [-105.5478, 38.9972], //Center of Colorado
+        zoom: 6
+      });
+
+      map.addControl(new mapboxgl.NavigationControl());
+      
+      // Helper function to batch update the Standard config
+      function updateMapDisplay(showReference) {
+        const visibility = showReference ? 'visible' : 'none';
+    
+        //Get all layers currently in your custom style
+        const layers = map.getStyle().layers;
+
+        layers.forEach((layer) => {
+          //Don't want these to disappear 
+          if (layer.id === 'points') return;
+
+          //Identify important layers (Roads, Labels, Boundaries)
+          const isLabelOrRoad = 
+            layer.type === 'symbol' || 
+            layer.type === 'line' || 
+            layer.id.includes('road') || 
+            layer.id.includes('label') ||
+            layer.id.includes('admin') ||
+            layer.id.includes('boundary');
+
+        //Keep 'background', 'hillshade', and 'fill' (terrain/land) but toggle the rest
+        if (isLabelOrRoad) {
+            map.setLayoutProperty(layer.id, 'visibility', visibility);
+        }
+        });
+      }
+
+      //Load geojson
+      let fuse;
+      map.on('load', async () => {
+        const response = await fetch('AllNames.geojson');
+        const geojson = await response.json();
+
+        map.addSource('points', {
+          type: 'geojson',
+          data: geojson
+        });
+
+        //Indidual color for each tribe
+        const tribeColors = {
+          Arapaho: '#0077B6',
+          Cheyenne: '#D84418',
+          Crow: '#550000',
+          Kiowa: '#00FF7F',
+          Pawnee: '#FC6C85',
+          Ute: '#FF8000',
+          // Settler: 'FFDE21', this category didn't have any points in it
+        };
+
+        const colorExpression = ['match', ['get', 'TRIBE']];
+        for (const tribe in tribeColors) {
+          colorExpression.push(tribe, tribeColors[tribe]);
+        }
+        colorExpression.push('#000000'); //Backup color
+
+        //Points
+        map.addLayer({
+          id: 'points',
+          type: 'circle',
+          source: 'points',
+          paint: {
+            'circle-color': colorExpression,
+            'circle-radius': 6,
+            'circle-stroke-width': 2,
+            'circle-stroke-color': '#ffffff'
+          }
+        });
+
+        //Popup on click
+        map.on('click', 'points', (e) => {
+          showPopup(e.features[0], e.lngLat);
+        });
+
+        map.on('mouseenter', 'points', () => {
+          map.getCanvas().style.cursor = 'pointer';
+        });
+
+        map.on('mouseleave', 'points', () => {
+          map.getCanvas().style.cursor = '';
+        });
+
+        //Initialize Fuse search
+        fuse = new Fuse(geojson.features, {
+          keys: [
+            'properties.NAME',
+            'properties.NATIVE_AMERICAN_NAME',
+            'properties.MEANING'
+          ],
+          threshold: 0.3
+        });
+        
+        //Timeout because layers were loading strangely
+        setTimeout(() => {
+          updateMapDisplay(false); 
+        }, 200);
+
+        //Checkbox
+        const toggle = document.getElementById('layer-toggle');
+        toggle.addEventListener('change', (e) => {
+          updateMapDisplay(e.target.checked);
+        });
+      });
+
+      //Search behavior
+      const searchInput = document.getElementById('searchInput');
+      const searchResults = document.getElementById('searchResults');
+
+      searchInput.addEventListener('input', () => {
+        const query = searchInput.value.trim();
+        searchResults.innerHTML = '';
+
+        if (!query || !fuse) return;
+
+        const results = fuse.search(query).slice(0, 10);
+
+        results.forEach(({ item }) => {
+          const div = document.createElement('div');
+          div.className = 'result-item';
+          div.innerHTML = `
+            <strong>${item.properties.NAME}</strong><br/>
+            <em>${item.properties.NATIVE_AMERICAN_NAME || ''}</em><br/>
+            <em>${item.properties.MEANING || ''}</em>
+          `;
+
+          div.onclick = () => {
+            const coords = item.geometry.coordinates;
+
+            map.flyTo({
+              center: coords,
+              zoom: 10
+            });
+
+            showPopup(item, coords);
+            searchResults.innerHTML = '';
+          };
+
+          searchResults.appendChild(div);
+        });
+      });
+
+      function showPopup(feature, lngLat) {
+        const p = feature.properties;
+
+        new mapboxgl.Popup()
+          .setLngLat(lngLat)
+          .setHTML(`
+            <strong>${p.NATIVE_AMERICAN_NAME}</strong><br/>
+            Meaning: ${p.MEANING || ''}<br/>
+            Name: ${p.NAME}<br/>
+            Tribe: ${p.TRIBE}<br/>
+            Location: ${p.LOCATION}<br/>
+            Comment: ${p.COMMENT || ''}
+          `)
+          .addTo(map);
+      }
+    </script>
+  </body>
+</html>
