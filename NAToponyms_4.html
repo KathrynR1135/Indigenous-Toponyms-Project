@@ -66,12 +66,91 @@
         top: 10px;
         left: 15px;
         background: #fff;
-        padding: 10px;
+        padding: 16px;
         font-family: sans-serif;
         border-radius: 8px;
-        box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
         z-index: 1;
-        }
+        line-height: 1.4;
+      }
+
+      .menu label {
+        display: block;
+        position: relative;
+        padding: 8px 12px 8px 24px;
+        margin: 4px 0;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        font-size: 14px;
+      }
+
+      .menu input[type="checkbox"] {
+        position: absolute;
+        opacity: 0;
+        width: 0;
+        height: 0;
+      }
+
+      .menu strong {
+        display: block;
+        margin: 12px 0 8px 0;
+        font-size: 16px;
+        color: #333;
+      }
+
+      /* .menu input[type="checkbox"]:not(:checked) + span {
+        background: #ccc !important;
+      } */
+
+      .menu label:hover {
+        background: rgba(0,0,0,0.05);
+      }
+
+      .arapaho.checked {
+        background: #0077B6 !important;
+        color: white;
+      }
+
+      .cheyenne.checked {
+        background: #D84418 !important;
+        color: white;
+      }
+
+      .crow.checked {
+        background: #550000 !important;
+        color: white;
+      }
+
+      .kiowa.checked {
+        background: #00FF7F !important;
+        color: #333;
+      }
+
+      .pawnee.checked {
+        background: #FC6C85 !important;
+        color: white;
+      }
+
+      .ute.checked {
+        background: #FF8000 !important;
+        color: white;
+      }
+
+      .all.checked {
+        background: #666 !important;
+        color: white;
+      }
+
+      #layer-toggle:checked + label {
+        background: #eee;
+        color: #333;
+      }
+
+      #layer-toggle:not(:checked) + label {
+        background: transparent;
+      }
+
     </style>
   </head>
 
@@ -79,19 +158,41 @@
   <body>
 
     <div class="menu">
-      <strong>Tribes</strong><br/>
-      <label><input type="checkbox" class="tribe-toggle" data-tribe="Arapaho" checked> <span style="color: #0077B6;">●</span> Arapaho</label><br/>
-      <label><input type="checkbox" class="tribe-toggle" data-tribe="Cheyenne" checked> <span style="color: #D84418;">●</span> Cheyenne</label><br/>
-      <label><input type="checkbox" class="tribe-toggle" data-tribe="Crow" checked> <span style="color: #550000;">●</span> Crow</label><br/>
-      <label><input type="checkbox" class="tribe-toggle" data-tribe="Kiowa" checked> <span style="color: #00FF7F;">●</span> Kiowa</label><br/>
-      <label><input type="checkbox" class="tribe-toggle" data-tribe="Pawnee" checked> <span style="color: #FC6C85;">●</span> Pawnee</label><br/>
-      <label><input type="checkbox" class="tribe-toggle" data-tribe="Ute" checked> <span style="color: #FF8000;">●</span> Ute</label><br/>
-      <label><input type="checkbox" class="tribe-toggle" data-tribe="All" checked>Toggle All</label><br/>
+      <strong>Tribes</strong>
+      <label class="arapaho">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Arapaho" checked>
+        <span>● Arapaho</span>
+      </label>
+      <label class="cheyenne">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Cheyenne" checked>
+        <span>● Cheyenne</span>
+      </label>
+      <label class="crow">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Crow" checked>
+        <span>● Crow</span>
+      </label>
+      <label class="kiowa">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Kiowa" checked>
+        <span>● Kiowa</span>
+      </label>
+      <label class="pawnee">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Pawnee" checked>
+        <span>● Pawnee</span>
+      </label>
+      <label class="ute">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Ute" checked>
+        <span>● Ute</span>
+      </label>
+      <label class="all">
+        <input type="checkbox" class="tribe-toggle" data-tribe="All" checked>
+        <span>● Toggle All</span>
+      </label>
       
-      <strong style="margin-top: 10px; display: block;">Map Layers</strong>
-      <input type="checkbox" id="layer-toggle">
+      <strong style="margin-top: 20px;">Map Layers</strong>
+      <input type="checkbox" id="layer-toggle" checked>
       <label for="layer-toggle">Show Roads & Labels</label>
     </div>
+
 
     <div id="mapContainer"></div>
 
@@ -249,6 +350,32 @@
           updateMapDisplay(e.target.checked);
         });
       });
+
+      document.addEventListener('DOMContentLoaded', function() {
+      // Initial load: apply checked classes
+      document.querySelectorAll('.tribe-toggle:checked').forEach(cb => {
+        cb.closest('label').classList.add('checked');
+      });
+
+      // Toggle handler for tribes (updates class)
+      document.querySelectorAll('.tribe-toggle:not(#layer-toggle)').forEach(cb => {
+        cb.addEventListener('change', function() {
+          const label = this.closest('label');
+          label.classList.toggle('checked', this.checked);
+        });
+      });
+
+      // Toggle All handler: sync all tribes + class
+      const allToggle = document.querySelector('[data-tribe="All"]');
+      allToggle.addEventListener('change', function() {
+        const isChecked = this.checked;
+        document.querySelectorAll('.tribe-toggle:not([data-tribe="All"]):not(#layer-toggle)').forEach(cb => {
+          cb.checked = isChecked;
+          cb.closest('label').classList.toggle('checked', isChecked);
+        });
+      });
+    });
+
 
       //Search behavior
       const searchInput = document.getElementById('searchInput');
