@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <!--Mapbox access-->
+    <title>Native American Toponyms in Colorado</title>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.js"></script>
+
+    <!-- Fuse for the search bar-->
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>
+
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      #mapContainer {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+      }
+
+      #searchContainer {
+        position: absolute;
+        top: 15px;
+        right: 65px;
+        z-index: 10;
+        width: 300px;
+        font-family: sans-serif;
+      }
+
+      #searchInput {
+        width: 100%;
+        padding: 8px;
+        font-size: 14px;
+      }
+
+      #searchResults {
+        background: white;
+        max-height: 250px;
+        overflow-y: auto;
+        border: 1px solid #ccc;
+      }
+
+      .result-item {
+        padding: 6px 8px;
+        cursor: pointer;
+        border-bottom: 1px solid #eee;
+      }
+
+      .result-item:hover {
+        background: #f0f0f0;
+      }
+
+      .menu {
+        position: absolute;
+        top: 10px;
+        left: 15px;
+        background: #fff;
+        padding: 16px;
+        font-family: sans-serif;
+        border-radius: 8px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+        z-index: 1;
+        line-height: 1.4;
+      }
+
+      .menu label {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        margin: 4px 0;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        font-size: 14px;
+      }
+
+      .menu label span {
+        display: flex;
+        align-items: center;
+      }
+
+      .menu strong {
+        display: block;
+        margin: 12px 0 8px 0;
+        font-size: 16px;
+        color: #333;
+      }
+
+      .menu label:hover {
+        background: rgba(0,0,0,0.05);
+      }
+
+      .arapaho.checked {
+        background: #305CDE !important;
+        color: white;
+        text-shadow:
+          -0.5px -0.5px 0 grey,
+          0.5px -0.5px 0 grey,
+          -0.5px  0.5px 0 grey,
+          0.5px  0.5px 0 grey;
+      }
+
+      .cheyenne.checked {
+        background: #D84418 !important;
+        color: white;
+        text-shadow:
+          -0.5px -0.5px 0 grey,
+          0.5px -0.5px 0 grey,
+          -0.5px  0.5px 0 grey,
+          0.5px  0.5px 0 grey;
+      }
+
+      .crow.checked {
+        background: #550000 !important;
+        color: white;
+        text-shadow:
+          -0.5px -0.5px 0 grey,
+          0.5px -0.5px 0 grey,
+          -0.5px  0.5px 0 grey,
+          0.5px  0.5px 0 grey;
+      }
+
+      .kiowa.checked {
+        background: #88E788 !important;
+        color: white;
+        text-shadow:
+          -0.5px -0.5px 0 grey,
+          0.5px -0.5px 0 grey,
+          -0.5px  0.5px 0 grey,
+          0.5px  0.5px 0 grey;
+      }
+
+      .lakota.checked {
+        background: #2E6F40 !important;
+        color: white;
+        text-shadow:
+          -0.5px -0.5px 0 grey,
+          0.5px -0.5px 0 grey,
+          -0.5px  0.5px 0 grey,
+          0.5px  0.5px 0 grey;
+      }
+
+      .pawnee.checked {
+        background: #FC6C85 !important;
+        color: white;
+        text-shadow:
+          -0.5px -0.5px 0 grey,
+          0.5px -0.5px 0 grey,
+          -0.5px  0.5px 0 grey,
+          0.5px  0.5px 0 grey;
+      }
+
+      .ute.checked {
+        background: #FF8000 !important;
+        color: white;
+        text-shadow:
+          -0.5px -0.5px 0 grey,
+          0.5px -0.5px 0 grey,
+          -0.5px  0.5px 0 grey,
+          0.5px  0.5px 0 grey;
+      }
+
+      .algonquian.checked {
+        background: #6C3BAA !important;
+        color: white;
+        text-shadow:
+          -0.5px -0.5px 0 grey,
+          0.5px -0.5px 0 grey,
+          -0.5px  0.5px 0 grey,
+          0.5px  0.5px 0 grey;
+      }
+
+      .other.checked {
+        background: #FFDA03 !important;
+        color: white;
+        text-shadow:
+          -0.5px -0.5px 0 grey,
+          0.5px -0.5px 0 grey,
+          -0.5px  0.5px 0 grey,
+          0.5px  0.5px 0 grey;
+      }
+
+      .all.checked {
+        background: #666 !important;
+        color: white;
+      }
+
+      .tribe-toggle {
+        appearance: none;
+        -webkit-appearance: none;
+        width: 18px;
+        height: 18px;
+        border: 2px solid black;
+        border-radius: 50%;
+        background-color: white;
+        cursor: pointer;
+        transition: background-color 0.2s ease;
+      }
+
+      /*Black when checked*/
+      .tribe-toggle:checked {
+        background-color: black;
+      }
+
+      .layer-toggle {
+        appearance: none;
+        -webkit-appearance: none;
+        width: 18px;
+        height: 18px;
+        border: 2px solid black;
+        border-radius: 50%;
+        background-color: white;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+
+      .layer-option {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 8px 12px;
+        margin: 4px 0;
+        border-radius: 20px;
+        cursor: pointer;
+        transition: all 0.2s ease;
+        font-size: 14px;
+      }
+
+      /* When checked */
+      .layer-toggle:checked {
+        background-color: black;
+      }
+    </style>
+  </head>
+
+
+  <body>
+    <div class="menu"> 
+      <strong>Toggle Place Names by Tribe</strong>
+      <label class="arapaho">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Arapaho" checked>
+        <span>Arapaho</span>
+      </label>
+      <label class="cheyenne">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Cheyenne" checked>
+        <span>Cheyenne</span>
+      </label>
+      <label class="crow">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Crow" checked>
+        <span>Crow</span>
+      </label>
+      <label class="kiowa">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Kiowa" checked>
+        <span>Kiowa</span>
+      </label>
+      <label class="lakota">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Lakota" checked>
+        <span>Lakota</span>
+      </label>      
+      <label class="pawnee">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Pawnee" checked>
+        <span>Pawnee</span>
+      </label>
+      <label class="ute">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Ute" checked>
+        <span>Ute</span>
+      </label>
+      <label class="algonquian">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Algonquian" checked>
+        <span>Algonquian</span>
+      </label>
+      <label class="other">
+        <input type="checkbox" class="tribe-toggle" data-tribe="Other" checked>
+        <span>Other Tribes</span>
+      </label>
+      <label class="all">
+        <input type="checkbox" class="tribe-toggle" data-tribe="All" checked>
+        <span>Toggle All</span>
+      </label>
+      
+      <strong style="margin-top: 20px;">Map Layers</strong>
+      <label class="layer-option">
+        <input type="checkbox" id="layer-toggle" class="layer-toggle" checked>
+        <span>Show Roads, Towns, and Political Boundaries</span>
+      </label>
+    </div>
+
+    <div id="mapContainer"></div>
+
+    <div id="searchContainer">
+      <input
+        type="text"
+        id="searchInput"
+        placeholder="Search by name or name meaning"
+      />
+      <div id="searchResults"></div>
+    </div>
+
+    <script>
+      mapboxgl.accessToken =
+        'pk.eyJ1Ijoia2F0aHJ5bjExMzUiLCJhIjoiY21mMzQ0emhkMDg5ZjJxcTVkYmpxenJoNSJ9.GoUAILryU_UK5jy7-StXaA';
+
+      const map = new mapboxgl.Map({
+        container: 'mapContainer',
+        style: 'mapbox://styles/mapbox/streets-v12',
+        center: [-105.5478, 38.9972], //Center of Colorado
+        zoom: 6
+      });
+
+      map.addControl(new mapboxgl.NavigationControl());
+      
+      //Helper function to batch update the standard config
+      function updateMapDisplay(showReference) {
+        const visibility = showReference ? 'visible' : 'none';
+    
+        //Get all layers currently in your custom style
+        const layers = map.getStyle().layers;
+
+        layers.forEach((layer) => {
+          //Don't want these to disappear 
+          if (layer.id === 'points') return;
+
+          //Identify important layers (Roads, Labels, Boundaries)
+          const isLabelOrRoad = 
+            layer.type === 'symbol' || 
+            layer.type === 'line' || 
+            layer.id.includes('road') || 
+            layer.id.includes('label') ||
+            layer.id.includes('admin') ||
+            layer.id.includes('boundary');
+
+        //Keep 'background', 'hillshade', and 'fill' (terrain/land) but toggle the rest
+        if (isLabelOrRoad) {
+            map.setLayoutProperty(layer.id, 'visibility', visibility);
+        }
+        });
+      }
+
+      //Load geojson
+      let fuse;
+      map.on('load', async () => {
+        const response = await fetch('AllNames5.geojson');
+        const geojson = await response.json();
+
+        map.addSource('points', {
+          type: 'geojson',
+          data: geojson
+        });
+
+        //Indidual color for each tribe
+        const tribeColors = {
+          Arapaho: '#305CDE', //Blue
+          Cheyenne: '#D84418', //Red
+          Crow: '#550000', //Dark red/brown
+          Kiowa: '#88E788', //Light green
+          Lakota: '#2E6F40', //Dark green
+          Pawnee: '#FC6C85', //Pink
+          Ute: '#FF8000', //Orange
+          Algonquian: '#6C3BAA', //Purple
+          Other: '#FFDA03' //Yellow
+          // Settler: 'FFDE21', this category didn't have any points in it
+        };
+
+        const colorExpression = ['match', ['get', 'TRIBE']];
+        for (const tribe in tribeColors) {
+          colorExpression.push(tribe, tribeColors[tribe]);
+        }
+        colorExpression.push('#000000'); //Backup color
+
+        //Points
+        map.addLayer({
+          id: 'points',
+          type: 'circle',
+          source: 'points',
+          paint: {
+            'circle-color': colorExpression,
+            'circle-radius': 6,
+            'circle-stroke-width': 1.5,
+            'circle-stroke-color': '#ffffff'
+          }
+        });
+
+        //Filter points based on checkboxes
+        const checkboxes = document.querySelectorAll('.tribe-toggle');
+        checkboxes.forEach(checkbox => {
+        checkbox.addEventListener('change', updateFilter);
+        });
+
+        //Handle "Toggle all" checkbox
+        const allToggle = document.querySelector('.tribe-toggle[data-tribe="All"]');
+        allToggle.addEventListener('change', () => {
+          const isChecked = allToggle.checked;
+          checkboxes.forEach(cb => {
+            if (cb.dataset.tribe !== 'All') {
+              cb.checked = isChecked;
+            }
+          });
+          updateFilter();
+        });
+
+        function updateFilter() {
+        const checkedTribes = Array.from(checkboxes)
+        .filter(cb => cb.checked && cb.dataset.tribe !== 'All')
+        .map(cb => cb.dataset.tribe);
+
+        if (checkedTribes.length === 0) {
+        map.setFilter('points', ['==', 'TRIBE', '']);
+        } else {
+        map.setFilter('points', ['in', ['get', 'TRIBE'], ['literal', checkedTribes]]);
+        }
+        }
+
+        //Popup on click
+        map.on('click', 'points', (e) => {
+          showPopup(e.features[0], e.lngLat);
+        });
+
+        map.on('mouseenter', 'points', () => {
+          map.getCanvas().style.cursor = 'pointer';
+        });
+
+        map.on('mouseleave', 'points', () => {
+          map.getCanvas().style.cursor = '';
+        });
+
+        //Initialize Fuse search
+        fuse = new Fuse(geojson.features, {
+          keys: [
+            'properties.NAME',
+            'properties.NATIVE_AMERICAN_NAME',
+            'properties.MEANING'
+          ],
+          threshold: 0.3
+        });
+        
+        //Timeout because layers were loading strangely
+        setTimeout(() => {
+          updateMapDisplay(false); 
+        }, 200);
+
+        //Checkbox
+        const toggle = document.getElementById('layer-toggle');
+        toggle.addEventListener('change', (e) => {
+          updateMapDisplay(e.target.checked);
+        });
+      });
+
+      document.addEventListener('DOMContentLoaded', function() {
+      // Initial load: apply checked classes
+      document.querySelectorAll('.tribe-toggle:checked').forEach(cb => {
+        cb.closest('label').classList.add('checked');
+      });
+
+      // Toggle handler for tribes (updates class)
+      document.querySelectorAll('.tribe-toggle:not(#layer-toggle)').forEach(cb => {
+        cb.addEventListener('change', function() {
+          const label = this.closest('label');
+          label.classList.toggle('checked', this.checked);
+        });
+      });
+
+      // Toggle All handler: sync all tribes + class
+      const allToggle = document.querySelector('[data-tribe="All"]');
+      allToggle.addEventListener('change', function() {
+        const isChecked = this.checked;
+        document.querySelectorAll('.tribe-toggle:not([data-tribe="All"]):not(#layer-toggle)').forEach(cb => {
+          cb.checked = isChecked;
+          cb.closest('label').classList.toggle('checked', isChecked);
+        });
+      });
+    });
+
+      //Search behavior
+      const searchInput = document.getElementById('searchInput');
+      const searchResults = document.getElementById('searchResults');
+
+      searchInput.addEventListener('input', () => {
+        const query = searchInput.value.trim();
+        searchResults.innerHTML = '';
+
+        if (!query || !fuse) return;
+
+        //Show top 10 most likely results
+        const results = fuse.search(query).slice(0, 10);
+
+        results.forEach(({ item }) => {
+          const div = document.createElement('div');
+          div.className = 'result-item';
+          div.innerHTML = `
+            <strong>${item.properties.NAME}</strong><br/>
+            <em>${item.properties.NATIVE_AMERICAN_NAME || ''}</em><br/>
+            <em>${item.properties.MEANING || ''}</em>
+          `;
+
+          div.onclick = () => {
+            const coords = item.geometry.coordinates;
+
+            map.flyTo({
+              center: coords,
+              zoom: 10
+            });
+
+            showPopup(item, coords);
+            searchResults.innerHTML = '';
+          };
+
+          searchResults.appendChild(div);
+        });
+      });
+
+      //Popup function
+      function showPopup(feature, lngLat) {
+        const p = feature.properties;
+
+        //Conditional statement to process the "other" category
+        let tribeLine = `Tribe: ${p.TRIBE || ''}`;
+
+        if (p.TRIBE === "Other" && p.SUBTRIBE) {
+          tribeLine += `<br/>Tribe: ${p.SUBTRIBE}`;
+        }
+
+        //Popup print out
+        new mapboxgl.Popup()
+          .setLngLat(lngLat)
+          .setHTML(`
+            <strong>${p.NATIVE_AMERICAN_NAME}</strong><br/>
+            Meaning: ${p.MEANING || ''}<br/>
+            Name: ${p.NAME}<br/>
+            ${tribeLine}<br/>
+            Location: ${p.LOCATION}<br/>
+            Comment: ${p.COMMENT || ''}
+          `)
+          .addTo(map);
+      }
+    </script>
+  </body>
+</html>
