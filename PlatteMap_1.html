@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+    <!--Mapbox access-->
+    <title>Land Between the North and South Platte Rivers</title>
+    <link
+      href="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.css"
+      rel="stylesheet"
+    />
+    <script src="https://api.mapbox.com/mapbox-gl-js/v3.14.0/mapbox-gl.js"></script>
+
+    <style>
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+      #mapContainer {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+      }
+    </style>
+  </head>
+
+
+  <body>
+    <div id="mapContainer"></div>
+
+    <script>
+      mapboxgl.accessToken =
+        'pk.eyJ1Ijoia2F0aHJ5bjExMzUiLCJhIjoiY21mMzQ0emhkMDg5ZjJxcTVkYmpxenJoNSJ9.GoUAILryU_UK5jy7-StXaA';
+
+      const map = new mapboxgl.Map({
+        container: 'mapContainer',
+        style: 'mapbox://styles/mapbox/streets-v12',
+        center: [-103.3312, 41.3588], //Vague center of map
+        zoom: 6
+      });
+
+      map.addControl(new mapboxgl.NavigationControl());
+
+      map.on('load', async () => {
+      //Load all three GeoJSONs
+      const [federalRes, stateRes, riversRes] = await Promise.all([
+        fetch('FederalLands.geojson'),
+        fetch('StateLands.geojson'),
+        fetch('PlatteRivers_2.geojson')
+      ]);
+
+      const federal = await federalRes.json();
+      const state = await stateRes.json();
+      const rivers = await riversRes.json();
+
+      map.addSource('federal-lands', {
+        type: 'geojson',
+        data: federal
+      });
+
+      map.addSource('state-lands', {
+        type: 'geojson',
+        data: state
+      });
+
+      map.addSource('platte-rivers', {
+        type: 'geojson',
+        data: rivers
+      });
+
+      //Federal Lands
+      map.addLayer({
+        id: 'federal-fill',
+        type: 'fill',
+        source: 'federal-lands',
+        paint: {
+          'fill-color': '#2E6F40', //Green
+          'fill-opacity': 0.5
+        }
+      });
+
+      //State Lands
+      map.addLayer({
+        id: 'state-fill',
+        type: 'fill',
+        source: 'state-lands',
+        paint: {
+          'fill-color': '#800080', //Purple
+          'fill-opacity': 0.5
+        }
+      });
+
+      //Platte Rivers
+      map.addLayer({
+        id: 'rivers-line',
+        type: 'line',
+        source: 'platte-rivers',
+        paint: {
+          'line-color': '#0000FF', //Blue
+          'line-width': 5
+        }
+      });
+    });
+
+    </script>
+  </body>
+</html>
