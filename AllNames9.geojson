@@ -1,0 +1,7555 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6153989,40.36975097 ]
+    },
+    "properties": {
+    "NAME":"Apache Fort",
+    "NATIVE_AMERICAN_NAME":"ti'ihiineniicebtiit",
+    "MEANING":"Apache Fort",
+    "LOCATION":"Upper Beaver Meadows",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"ca. 1838 battle with Apache",
+    "COUNTY":"Larimer",
+    "ObjectId":1,
+    "GlobalID":"{0F4B4710-BA07-473B-8563-492E44083783}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.95208,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.44393,41.21016 ]
+    },
+    "properties": {
+    "NAME":"Area Connecting North Park and Laramie Basin",
+    "NATIVE_AMERICAN_NAME":"tecenoo",
+    "MEANING":"The Door",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Door between North Park and Laramie Basin",
+    "COUNTY":"Jackson",
+    "ObjectId":92,
+    "GlobalID":"{78DBACC7-7430-4D3F-9EF5-917D6B4E8E26}",
+    "CreationDate":44726.89792,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.89861,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Area in Kawuneeche Valley",
+    "NATIVE_AMERICAN_NAME":"bexookeinokoy",
+    "MEANING":"Mountain Lion's Den",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8506157,40.37780067 ]
+    },
+    "properties": {
+    "NAME":"Area in Kawuneeche Valley",
+    "NATIVE_AMERICAN_NAME":"toh'okooxeeeni'",
+    "MEANING":"Where we Get Poles",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"A mile below Plenty Jerked Meat",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8510447,40.38848224 ]
+    },
+    "properties": {
+    "NAME":"Area in Kawuneeche Valley",
+    "NATIVE_AMERICAN_NAME":"hiwoxuuhuu3o'ohcoo",
+    "MEANING":"Pounded Elk Meat",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Location from text deduction -- guess",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arkansas River",
+    "NATIVE_AMERICAN_NAME":"hohoheeniniicii",
+    "MEANING":"Flint File River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":94,
+    "GlobalID":"{D2C621FD-3DCB-4E2F-9AF7-11644942C9AF}",
+    "CreationDate":44741.95347,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.95347,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arkansas River",
+    "NATIVE_AMERICAN_NAME":"hohoheeniniicii",
+    "MEANING":"Flint File River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":95,
+    "GlobalID":"{80760333-6583-4B22-A178-44A40C5EB43D}",
+    "CreationDate":44741.95694,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.95764,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arkansas River",
+    "NATIVE_AMERICAN_NAME":"hohoheeniniicii",
+    "MEANING":"Flint File River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":96,
+    "GlobalID":"{8DC0FD26-307D-43CE-B880-7E2CD25C341B}",
+    "CreationDate":44741.95903,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.95903,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.90418,40.37958345 ]
+    },
+    "properties": {
+    "NAME":"Baker Mountain/Pass",
+    "NATIVE_AMERICAN_NAME":"heeyeisoono' toh'ou3i'i",
+    "MEANING":"Where Sparrow Hawk's Young Hang",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":2,
+    "GlobalID":"{6F1474AE-2CC9-42A8-919E-724372C1CC74}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8614306,40.35843221 ]
+    },
+    "properties": {
+    "NAME":"Baker-Brooks Meadow",
+    "NATIVE_AMERICAN_NAME":"heebe3iboo3etiit",
+    "MEANING":"Big Battle",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"1863 Battle site a mile below Arapahoe Race Course (niitohnonouhti' or Hendricks Flats)",
+    "COUNTY":"Grand",
+    "ObjectId":3,
+    "GlobalID":"{B0339B7A-C8E7-4455-8C9A-7E8933388020}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44745.70139,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9721365,40.42350938 ]
+    },
+    "properties": {
+    "NAME":"Bearpaws Peaks",
+    "NATIVE_AMERICAN_NAME":"woxse'eihtoo",
+    "MEANING":"Bear Paw",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Area includes Stones Peak and Mt. Julian",
+    "COUNTY":"Jackson",
+    "ObjectId":5,
+    "GlobalID":"{9C35FF02-878E-4622-BBCB-B5CE56E996B6}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.96458,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8359631,40.39224092 ]
+    },
+    "properties": {
+    "NAME":"Beaver Creek",
+    "NATIVE_AMERICAN_NAME":"bih'ihiikoh'owu'",
+    "MEANING":"Deer Creek",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":6,
+    "GlobalID":"{09004D5D-3144-496D-A111-8ED4E0C8AD44}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6242296,40.3246848 ]
+    },
+    "properties": {
+    "NAME":"Bierstadt Lake",
+    "NATIVE_AMERICAN_NAME":"ni'ec honoute'",
+    "MEANING":"Hanging Lake",
+    "LOCATION":"Glacier Basin ",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":7,
+    "GlobalID":"{076B89BD-CA3B-495F-8979-B02DF926B117}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.96597,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.7320868,40.65888098 ]
+    },
+    "properties": {
+    "NAME":"Big Creek Lake",
+    "NATIVE_AMERICAN_NAME":"ni'eciikoh'owu'",
+    "MEANING":"Lake Creek",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Near Buffalo Pass",
+    "COUNTY":"Jackson",
+    "ObjectId":8,
+    "GlobalID":"{DBEEF6B9-594B-42CB-8E27-9544A9A44F82}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8089786,40.30828778 ]
+    },
+    "properties": {
+    "NAME":"Big Meadows/Tonahutu",
+    "NATIVE_AMERICAN_NAME":"toonoxutee'",
+    "MEANING":"Big Meadow",
+    "LOCATION":"Big Meadow",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English name borrowed from Arapaho",
+    "COUNTY":"Grand",
+    "ObjectId":9,
+    "GlobalID":"{F2594172-291D-4515-95B6-0F181FD82671}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.96806,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5553114,40.35493772 ]
+    },
+    "properties": {
+    "NAME":"Big Thompson River",
+    "NATIVE_AMERICAN_NAME":"hiicooo",
+    "MEANING":"The Pipe River",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":10,
+    "GlobalID":"{EE67FD4B-80B0-47F7-9273-8C53EB2019CC}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.96875,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3859682,40.02655877 ]
+    },
+    "properties": {
+    "NAME":"Blue River",
+    "NATIVE_AMERICAN_NAME":"biisee3 tih'iikou'uni'",
+    "MEANING":"Where Blue Paint was Gathered",
+    "LOCATION":"Middle Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Souce of ceremonial paint near Kremmling",
+    "COUNTY":"Grand",
+    "ObjectId":11,
+    "GlobalID":"{C5449108-A101-4593-9AAA-A7E9F3D81D92}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Boulder area",
+    "NATIVE_AMERICAN_NAME":"heetbii3oonoo'",
+    "MEANING":"",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6181217,40.29513128 ]
+    },
+    "properties": {
+    "NAME":"Boulder Brook",
+    "NATIVE_AMERICAN_NAME":"ce'eiinoonoohoet",
+    "MEANING":"Rawhide Dish",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"On north side of Longs Peak",
+    "COUNTY":"Larimer",
+    "ObjectId":12,
+    "GlobalID":"{41154196-25C6-401D-94D9-D9CE3E8DC4A2}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.97014,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3093161,40.23950872 ]
+    },
+    "properties": {
+    "NAME":"Buckhorn Creek",
+    "NATIVE_AMERICAN_NAME":"coo'oo'oe'",
+    "MEANING":"Thick Brush",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Jackson",
+    "ObjectId":13,
+    "GlobalID":"{D2D41424-D5B1-4E82-BA1A-2EF593D27949}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.7354084,40.51117693 ]
+    },
+    "properties": {
+    "NAME":"Buffalo Mountain",
+    "NATIVE_AMERICAN_NAME":"hii3einoteyoo'",
+    "MEANING":"Buffalo Mountain",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Jackson",
+    "ObjectId":14,
+    "GlobalID":"{FD3964C6-B0D0-4190-AB91-B5A82D6B7643}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.6842026,40.54255421 ]
+    },
+    "properties": {
+    "NAME":"Buffalo Pass",
+    "NATIVE_AMERICAN_NAME":"heneeceibooo",
+    "MEANING":"Buffalo Trail",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Ceremonial fasting location",
+    "COUNTY":"Jackson",
+    "ObjectId":15,
+    "GlobalID":"{84521570-4D51-4027-BF1E-92FF06521300}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4745032,40.41376687 ]
+    },
+    "properties": {
+    "NAME":"Bull Frog Rock and Sheep Creek",
+    "NATIVE_AMERICAN_NAME":"niiinon",
+    "MEANING":"The Tipi",
+    "LOCATION":"North Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Location unknown  UTM to show it was somewhere in area",
+    "COUNTY":"Larimer",
+    "ObjectId":16,
+    "GlobalID":"{D80E93F6-2025-4C87-A2B6-00CBDCA6E40A}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5467494,40.24246175 ]
+    },
+    "properties": {
+    "NAME":"Cabin Creek ",
+    "NATIVE_AMERICAN_NAME":"woo3ee3i' hebesii",
+    "MEANING":"Lots of Beaver ",
+    "LOCATION":"Tahosa Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":17,
+    "GlobalID":"{2E24D532-2090-45B1-8A4C-8E3BF6215AFA}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.975815,40.508564 ]
+    },
+    "properties": {
+    "NAME":"Cache la Poudre River",
+    "NATIVE_AMERICAN_NAME":"ho'oowu' heetou'",
+    "MEANING":"Where there is a House",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":97,
+    "GlobalID":"{7432BC21-1893-4E57-919C-38F29E22154F}",
+    "CreationDate":44741.97292,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.97292,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6395585,40.24762592 ]
+    },
+    "properties": {
+    "NAME":"Chiefs Head Peak",
+    "NATIVE_AMERICAN_NAME":"hookuhu'eeno",
+    "MEANING":"Heads",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English name based on Arapaho",
+    "COUNTY":"Boulder",
+    "ObjectId":18,
+    "GlobalID":"{BD36B8E4-B8BD-4780-93B5-182F74DC4E75}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.561691,38.343731 ]
+    },
+    "properties": {
+    "NAME":"Cimarron River",
+    "NATIVE_AMERICAN_NAME":"heneeceiniinie",
+    "MEANING":"Buffalo Bull River",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Montrose",
+    "ObjectId":100,
+    "GlobalID":"{B550C179-B24F-4EF6-8631-3EECF09B2A10}",
+    "CreationDate":44741.97569,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.97639,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9292421,40.60492123 ]
+    },
+    "properties": {
+    "NAME":"Clark's Peak",
+    "NATIVE_AMERICAN_NAME":"hiwoxuuhuunisoo'",
+    "MEANING":"Elks Horn",
+    "LOCATION":"Never Summer Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":19,
+    "GlobalID":"{6AD6B3C2-031A-4B97-906D-477D6E325FD9}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Collegiate Range and Mount Massive",
+    "NATIVE_AMERICAN_NAME":"hiwoxuu hookuhu'ee",
+    "MEANING":"Elk's Head",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4298272,40.5369057 ]
+    },
+    "properties": {
+    "NAME":"Crystal Mountain",
+    "NATIVE_AMERICAN_NAME":"hinooox hoono'uu",
+    "MEANING":"Mica Hill",
+    "LOCATION":"North Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":20,
+    "GlobalID":"{BEA19E82-5A8B-405F-B989-B693902A5278}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6425429,40.34429663 ]
+    },
+    "properties": {
+    "NAME":"Cub Lake",
+    "NATIVE_AMERICAN_NAME":"tihnoo'oenootee' ni'eci'",
+    "MEANING":"Where there was a Camp around a Lake",
+    "LOCATION":"Moraine Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":21,
+    "GlobalID":"{BF9F8116-CE1A-4891-BCC6-C721E62EB3EF}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.97986,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.584198,40.3795363 ]
+    },
+    "properties": {
+    "NAME":"Deer Mountain",
+    "NATIVE_AMERICAN_NAME":"cenii3oteyoo'",
+    "MEANING":"Going-Inside Mountain",
+    "LOCATION":"Rocky Mountain National Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Location refers to Deer Mtn summit in RMNP (GNIS)",
+    "COUNTY":"Rocky Mountain National Park",
+    "ObjectId":102,
+    "GlobalID":"{8839687F-307C-4794-816B-9EF90E7DB51A}",
+    "CreationDate":44741.98125,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.98194,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9903,39.7392 ]
+    },
+    "properties": {
+    "NAME":"Denver",
+    "NATIVE_AMERICAN_NAME":"niineniiniicie",
+    "MEANING":"Tallow River",
+    "LOCATION":"Denver",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Denver",
+    "ObjectId":22,
+    "GlobalID":"{CFDCC7B2-BF83-40C9-93EA-B3E04DB8E5CC}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Devil's Washboard/McCreary",
+    "NATIVE_AMERICAN_NAME":"hoh'onookeenooxeb",
+    "MEANING":"Rock Spring",
+    "LOCATION":"RMNP",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Eagle Rock and School Section Rocks",
+    "NATIVE_AMERICAN_NAME":"nouuteyoono'",
+    "MEANING":"Bone Pipes",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9683514,40.48958855 ]
+    },
+    "properties": {
+    "NAME":"Elk River",
+    "NATIVE_AMERICAN_NAME":"neetookooneeniiciihehe'",
+    "MEANING":"Drowning River",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Jackson",
+    "ObjectId":23,
+    "GlobalID":"{CD5492AA-DAE2-4161-8CD5-6EFCB3C10C30}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5664668,40.29337764 ]
+    },
+    "properties": {
+    "NAME":"Estes Cone",
+    "NATIVE_AMERICAN_NAME":"neneesoteyou'u",
+    "MEANING":"Three Mountains",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Names actually refers to Estes Cone, Wind River Cliffs, and a smaller adjacent mountain.",
+    "COUNTY":"Larimer",
+    "ObjectId":24,
+    "GlobalID":"{3FAE2523-1920-4711-8B81-2322363E846C}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.98819,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5202587,40.3755245 ]
+    },
+    "properties": {
+    "NAME":"Estes Valley",
+    "NATIVE_AMERICAN_NAME":"heetko'einoo'",
+    "MEANING":"Where it is Circular",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":25,
+    "GlobalID":"{4C04422C-FF7D-4CA6-B906-F7AA4A674881}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.98889,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6511093,40.4098261 ]
+    },
+    "properties": {
+    "NAME":"Fall River",
+    "NATIVE_AMERICAN_NAME":"hecesiicooo",
+    "MEANING":"Little Pipe River",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":26,
+    "GlobalID":"{38666931-644E-45D6-B28E-DB0E4BD63990}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7106262,40.48248452 ]
+    },
+    "properties": {
+    "NAME":"Flatiron Mountain",
+    "NATIVE_AMERICAN_NAME":"neenowuxootei'i",
+    "MEANING":"They Face to the North",
+    "LOCATION":"Cache La Poudre",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Guess: back of Mummy Range bordering the C La P",
+    "COUNTY":"Larimer",
+    "ObjectId":27,
+    "GlobalID":"{FE241AD0-27F4-4FC0-B903-42F9C633A909}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6895647,40.30679989 ]
+    },
+    "properties": {
+    "NAME":"Flattop Mountain",
+    "NATIVE_AMERICAN_NAME":"heebe3booo",
+    "MEANING":"Big Trail",
+    "LOCATION":"Continental Divide",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":28,
+    "GlobalID":"{3B992E94-362D-4B81-A0D5-92581FA2ACD0}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.619343,38.524644 ]
+    },
+    "properties": {
+    "NAME":"Fountain Creek",
+    "NATIVE_AMERICAN_NAME":"konootoowu'",
+    "MEANING":"Boiling Water",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"El Paso",
+    "ObjectId":104,
+    "GlobalID":"{E622E590-6F3C-4EBA-97BE-3368849A05C2}",
+    "CreationDate":44745.08472,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44745.08542,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.913201,40.079716 ]
+    },
+    "properties": {
+    "NAME":"Fraser River",
+    "NATIVE_AMERICAN_NAME":"benii3oonoo'",
+    "MEANING":"It is Steep",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":105,
+    "GlobalID":"{97EB6F78-A846-42D0-BE4A-8CB605370DCC}",
+    "CreationDate":44745.08611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44745.08611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5489443,40.3452472 ]
+    },
+    "properties": {
+    "NAME":"Giant Track Mountain",
+    "NATIVE_AMERICAN_NAME":"hinenitee tohnooxeihit",
+    "MEANING":"Where a [Giant] Person Left Tracks",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English name translated from Arapaho.",
+    "COUNTY":"Larimer",
+    "ObjectId":29,
+    "GlobalID":"{51DDB99F-1880-43CA-AFD9-25D26BC8589B}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5955161,40.32019643 ]
+    },
+    "properties": {
+    "NAME":"Glacier Basin",
+    "NATIVE_AMERICAN_NAME":"heetohso'owu'",
+    "MEANING":"Where the Land is Flat",
+    "LOCATION":"Glacier Basin ",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":4,
+    "GlobalID":"{44DCE2FC-171B-4DEE-BA4C-9911CB09B227}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.96389,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8231,40.2522 ]
+    },
+    "properties": {
+    "NAME":"Grand Lake",
+    "NATIVE_AMERICAN_NAME":"beteeni'ec",
+    "MEANING":"Holy Lake",
+    "LOCATION":"west of RMNP",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":31,
+    "GlobalID":"{3ACC97FE-4365-4E01-A8CF-CE85B521AEC9}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8231,40.2522 ]
+    },
+    "properties": {
+    "NAME":"Grand Lake",
+    "NATIVE_AMERICAN_NAME":"heebe3ni'ec",
+    "MEANING":"Big Lake",
+    "LOCATION":"west of RMNP",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":32,
+    "GlobalID":"{43C0C56C-165C-494F-8BC1-B7E7A3D2AC1D}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8231,40.2522 ]
+    },
+    "properties": {
+    "NAME":"Grand Lake area",
+    "NATIVE_AMERICAN_NAME":"ce'eiinox",
+    "MEANING":"Game Bag",
+    "LOCATION":"west of RMNP",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":33,
+    "GlobalID":"{21C34396-C903-4634-90B4-F037387FF424}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Grays Peak and Torreys Peak",
+    "NATIVE_AMERICAN_NAME":"heeniiyoowuu",
+    "MEANING":"Ant Hills",
+    "LOCATION":"Front Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8206088,40.29495336 ]
+    },
+    "properties": {
+    "NAME":"Green Mountain ?",
+    "NATIVE_AMERICAN_NAME":"nookhoosei'iini'",
+    "MEANING":"Sage Hills",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Hills between Big Meadows Fork and North Fork of Grand",
+    "COUNTY":"Grand",
+    "ObjectId":34,
+    "GlobalID":"{F52EF205-1947-4FBD-8799-C34F2C2C5F22}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":45194.99931,
+    "Editor":"Katherine.Ide_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6848788,40.30073749 ]
+    },
+    "properties": {
+    "NAME":"Hallett Peak",
+    "NATIVE_AMERICAN_NAME":"bonoh'ooonoteyoo'",
+    "MEANING":"Thunder Peak",
+    "LOCATION":"Continental Divide",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":35,
+    "GlobalID":"{25C8B61B-18D3-457B-984B-1A6BEDD3F7A6}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Harm's Peak",
+    "NATIVE_AMERICAN_NAME":"nii'eetei'i tih'iikou'uni'i",
+    "MEANING":"Where White Turnips were Gathered",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8565562,40.37341446 ]
+    },
+    "properties": {
+    "NAME":"Hedricks Flats",
+    "NATIVE_AMERICAN_NAME":"niitohnonouhti'",
+    "MEANING":"Where We Race",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"8 mi no of GL; winter camp and horse racing track",
+    "COUNTY":"Grand",
+    "ObjectId":37,
+    "GlobalID":"{53215E55-1071-4753-9F3E-191748991BED}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6153814,40.40019287 ]
+    },
+    "properties": {
+    "NAME":"Horseshoe Park",
+    "NATIVE_AMERICAN_NAME":"ciitoowuu'",
+    "MEANING":"Inside the Lodge",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":38,
+    "GlobalID":"{F4C02A8B-AD03-40BB-87DD-E955667826DB}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"I-25, CO/WY border, rock formation",
+    "NATIVE_AMERICAN_NAME":"nih'iitkotousi'i",
+    "MEANING":"Where they Took Shelter",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"James Peak and south",
+    "NATIVE_AMERICAN_NAME":"hooxei hookute'",
+    "MEANING":"Wolf's Canine",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8912568,40.52060139 ]
+    },
+    "properties": {
+    "NAME":"Joe Wright Creek",
+    "NATIVE_AMERICAN_NAME":"hiwoxuukoh'owu'",
+    "MEANING":"Elk Creek",
+    "LOCATION":"Never Summer Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":39,
+    "GlobalID":"{19EB8525-1C5D-412C-AE66-83C4930205B5}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4740833,40.40767843 ]
+    },
+    "properties": {
+    "NAME":"Kaly Cook Springs",
+    "NATIVE_AMERICAN_NAME":"hoh'onookeenooxeb",
+    "MEANING":"Rock Spring",
+    "LOCATION":"North Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Identified by Toll as \"Devils Washboard\" as well as \"Kaly Cook Springs\"; exact spring location is a guess on USGS",
+    "COUNTY":"Larimer",
+    "ObjectId":40,
+    "GlobalID":"{81F50AA4-34A7-436F-A04C-AC84B11D173F}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.859975,40.32635262 ]
+    },
+    "properties": {
+    "NAME":"Kawuneeche Valley",
+    "NATIVE_AMERICAN_NAME":"koo'ohwuuniicii",
+    "MEANING":"Coyote River",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"UTM Center of Valley",
+    "COUNTY":"Grand",
+    "ObjectId":41,
+    "GlobalID":"{0E8C55C5-96D9-469A-804C-67A6C377CD8C}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7281839,40.26158913 ]
+    },
+    "properties": {
+    "NAME":"Lake Nakoni",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"traveling in circles",
+    "LOCATION":"Grand Lake",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Said to be the name of a Comanche Band",
+    "COUNTY":"Grand",
+    "ObjectId":43,
+    "GlobalID":"{33AF780B-C683-441E-A160-511CB248B032}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Laramie Plains",
+    "NATIVE_AMERICAN_NAME":"heneeceibooo",
+    "MEANING":"Buffalo Trail",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.677054,41.252556 ]
+    },
+    "properties": {
+    "NAME":"Laramie River",
+    "NATIVE_AMERICAN_NAME":"ne'iiniicie",
+    "MEANING":"Goose River",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":107,
+    "GlobalID":"{0560DD34-39D8-41D1-A446-189C307C7017}",
+    "CreationDate":44745.70486,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44745.70556,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5376354,40.30451553 ]
+    },
+    "properties": {
+    "NAME":"Lily Lake",
+    "NATIVE_AMERICAN_NAME":"hebesokoy",
+    "MEANING":"Beaver Lodge",
+    "LOCATION":"Tahosa Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":44,
+    "GlobalID":"{EBE8F750-263D-44C0-A1AB-6AA6C4696B01}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5416309,40.31562332 ]
+    },
+    "properties": {
+    "NAME":"Lily Mountain",
+    "NATIVE_AMERICAN_NAME":"heebesokoyonoteyoo'",
+    "MEANING":"Beaver Lodge Mountain",
+    "LOCATION":"Tahosa Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":45,
+    "GlobalID":"{B5C0FB27-C4BA-4167-862A-4C257E7EAD92}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5225741,40.62124259 ]
+    },
+    "properties": {
+    "NAME":"Little Beaver Creek",
+    "NATIVE_AMERICAN_NAME":"boo'oowu'",
+    "MEANING":"Flows Red",
+    "LOCATION":"North of ROMO",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Minor creek: may be the South Fork of the Cache La Poudre",
+    "COUNTY":"Larimer",
+    "ObjectId":46,
+    "GlobalID":"{3608993F-7E86-4177-B1F5-3D99CD8569B1}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6145758,40.25306778 ]
+    },
+    "properties": {
+    "NAME":"Longs Peak",
+    "NATIVE_AMERICAN_NAME":"neniisoteyou'u",
+    "MEANING":"Two Mountains",
+    "LOCATION":"Continental Divide",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Refers to both Longs Peak and Mt. Meeker.",
+    "COUNTY":"Boulder",
+    "ObjectId":47,
+    "GlobalID":"{5E7203F4-00F4-442B-B7C4-AC9690FEE81D}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44745.70972,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5458165,40.27853049 ]
+    },
+    "properties": {
+    "NAME":"Longs Peak Inn Area",
+    "NATIVE_AMERICAN_NAME":"hisei tih'iinoxowuso'oneit bes",
+    "MEANING":"Where woman was killed",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Best Guess at location",
+    "COUNTY":"Boulder",
+    "ObjectId":48,
+    "GlobalID":"{634385A7-270E-4098-9F70-DC4F4743597E}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44745.71042,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5639763,40.22443243 ]
+    },
+    "properties": {
+    "NAME":"Lookout, Shadow and Echo Mountain",
+    "NATIVE_AMERICAN_NAME":"beniisoteyoo'",
+    "MEANING":"Furry/Hairy [with trees] Mountain",
+    "LOCATION":"Grand Lake",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":108,
+    "GlobalID":"{3368EA43-313D-4539-9DA9-CD9FDF74BDAC}",
+    "CreationDate":44745.7125,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44745.71319,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.870625,40.47796661 ]
+    },
+    "properties": {
+    "NAME":"Lulu Pass",
+    "NATIVE_AMERICAN_NAME":"booh'ooni3esoo'",
+    "MEANING":"Thunder Pass",
+    "LOCATION":"Never Summer Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":49,
+    "GlobalID":"{4F67D14F-D131-4D27-AB2E-654DCC1D6A8A}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5369204,40.41176412 ]
+    },
+    "properties": {
+    "NAME":"Lumpy Ridge",
+    "NATIVE_AMERICAN_NAME":"3ee3i'oteyou'u",
+    "MEANING":"Lumpy Mountains",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English name translated from Arapaho",
+    "COUNTY":"Larimer",
+    "ObjectId":50,
+    "GlobalID":"{1F31507C-B90E-46AA-975C-16894B63F84F}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":45194.99931,
+    "Editor":"Katherine.Ide_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9128,38.8576 ]
+    },
+    "properties": {
+    "NAME":"Manitou Springs",
+    "NATIVE_AMERICAN_NAME":"beteenooxeb",
+    "MEANING":"Holy Spring",
+    "LOCATION":"City of Manitou Springs",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"El Paso",
+    "ObjectId":51,
+    "GlobalID":"{750CB624-3A28-48C1-BC88-C01CD3B90E31}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":45194.99931,
+    "Editor":"Katherine.Ide_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.472945,40.4218364 ]
+    },
+    "properties": {
+    "NAME":"McCreery Hill Spring",
+    "NATIVE_AMERICAN_NAME":"bih'ihiikoh'owu'",
+    "MEANING":"Deer Creek",
+    "LOCATION":"North Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Guess as to spring on USGS",
+    "COUNTY":"Larimer",
+    "ObjectId":52,
+    "GlobalID":"{35BD5C92-705E-4D7F-9E01-00C9DECF787B}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"McHenry's Peak",
+    "NATIVE_AMERICAN_NAME":"beniixoteyou'u",
+    "MEANING":"Bare Mountains",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8834854,40.48074285 ]
+    },
+    "properties": {
+    "NAME":"Michigan River",
+    "NATIVE_AMERICAN_NAME":"bei'i'einiiciihehe'",
+    "MEANING":"Little Shell Creek",
+    "LOCATION":"Never Summer Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Fossils can be found on lower end of creek",
+    "COUNTY":"Jackson",
+    "ObjectId":53,
+    "GlobalID":"{E1898F30-4EFC-4DF4-80B6-28E4075D7175}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5223995,40.28656677 ]
+    },
+    "properties": {
+    "NAME":"Mills Lake",
+    "NATIVE_AMERICAN_NAME":"teiitooni'ec",
+    "MEANING":"Still Lake",
+    "LOCATION":"Glacier Basin  ",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":54,
+    "GlobalID":"{F0553891-8443-472B-928D-6EB293168A6E}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5223995,40.28656677 ]
+    },
+    "properties": {
+    "NAME":"Mill's Lake",
+    "NATIVE_AMERICAN_NAME":"teiitooni'ec",
+    "MEANING":"Still Lake",
+    "LOCATION":"Glacier Basin ",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":109,
+    "GlobalID":"{A1BD8693-1124-44E1-AC99-EEC7435F1350}",
+    "CreationDate":44747.9125,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44747.9125,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.811424,40.41985 ]
+    },
+    "properties": {
+    "NAME":"Milner Pass",
+    "NATIVE_AMERICAN_NAME":"bih'iibooo",
+    "MEANING":"Deer Trail",
+    "LOCATION":"North Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Refers to the entirety of Milner Pass",
+    "COUNTY":"Grand / Larimer",
+    "ObjectId":90,
+    "GlobalID":"{8065DC0C-A745-4F7E-8234-F95FC3C6F169}",
+    "CreationDate":44726.88958,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":45231.04861,
+    "Editor":"Katherine.Ide_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9973806,40.07631461 ]
+    },
+    "properties": {
+    "NAME":"Mount Chauncey",
+    "NATIVE_AMERICAN_NAME":"beiines heetohkokoyoo'",
+    "MEANING":"Where there is a Square Fort",
+    "LOCATION":"South Grand Lake",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Named for Indian-made stone walled forts in area",
+    "COUNTY":"Grand",
+    "ObjectId":99,
+    "GlobalID":"{16FE59B7-7FC0-405E-92CB-7D7989AF5484}",
+    "CreationDate":44741.97431,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.97431,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7278859,40.21731026 ]
+    },
+    "properties": {
+    "NAME":"Mount Craig",
+    "NATIVE_AMERICAN_NAME":"neneehii3ei'oteyoo'",
+    "MEANING":"Middle Mountain",
+    "LOCATION":"Grand Lake",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Also known as Baldy Mountain",
+    "COUNTY":"Grand",
+    "ObjectId":101,
+    "GlobalID":"{1AC23099-3734-4ACF-8C40-0342E8CD7127}",
+    "CreationDate":44741.97778,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.98681,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.76653,40.25856 ]
+    },
+    "properties": {
+    "NAME":"Mount Enentah",
+    "NATIVE_AMERICAN_NAME":"hineniteenoteyoo'",
+    "MEANING":"Person Mountain",
+    "LOCATION":"English name borrowed from Arapaho",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English name based on Arapaho",
+    "COUNTY":"",
+    "ObjectId":103,
+    "GlobalID":"{0BB64D03-ACF5-47E4-A16C-702CDF985731}",
+    "CreationDate":44741.98472,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44741.98542,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4614105,40.37264808 ]
+    },
+    "properties": {
+    "NAME":"Mount Olympus and two surrounding peaks",
+    "NATIVE_AMERICAN_NAME":"neeneb3i'eiitei'i",
+    "MEANING":"They Face to the Wind",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":115,
+    "GlobalID":"{6258A394-2EE3-4374-9059-494095875804}",
+    "CreationDate":44747.92431,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44747.92431,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Mountain on east side of North Park",
+    "NATIVE_AMERICAN_NAME":"heneeceinokoy",
+    "MEANING":"Buffalo Lodge",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Could refer to one or more of several peaks in Medicine Bow Range",
+    "COUNTY":"",
+    "ObjectId":89,
+    "GlobalID":"{0D429064-CF54-4A3D-A11E-C90971D49466}",
+    "CreationDate":44726.88819,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":45194.99931,
+    "Editor":"Katherine.Ide_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6761442,40.46415995 ]
+    },
+    "properties": {
+    "NAME":"Mummy Range",
+    "NATIVE_AMERICAN_NAME":"nookbee3eino'",
+    "MEANING":"White Owls",
+    "LOCATION":"Mummy Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Includes Chiquita, Chapin, Ypsilon, Fairtchild Mountains",
+    "COUNTY":"Larimer",
+    "ObjectId":110,
+    "GlobalID":"{70E1FFD3-8934-49DD-979C-A4939C24BC63}",
+    "CreationDate":44747.91319,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44747.91389,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5492872,40.41358893 ]
+    },
+    "properties": {
+    "NAME":"Needles",
+    "NATIVE_AMERICAN_NAME":"3ee3i'oteyoo'",
+    "MEANING":"Lumpy Mountain",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":55,
+    "GlobalID":"{FF798787-29B9-4CE9-BAA1-5C960AAFE990}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8617791,40.47814101 ]
+    },
+    "properties": {
+    "NAME":"Neota Mountain",
+    "NATIVE_AMERICAN_NAME":"hote' hitee",
+    "MEANING":"Mountain Sheep's Heart",
+    "LOCATION":"Never Summer Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English named borrowed from Arapaho",
+    "COUNTY":"Larimer",
+    "ObjectId":56,
+    "GlobalID":"{02BB10DF-B104-4B60-96EC-E00578EB1391}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9040373,40.39886385 ]
+    },
+    "properties": {
+    "NAME":"Never Summer Mountains",
+    "NATIVE_AMERICAN_NAME":"niiciibiicei'i",
+    "MEANING":"It is Never Summer",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English named translated from Arapaho",
+    "COUNTY":"Grand",
+    "ObjectId":57,
+    "GlobalID":"{DE0EA3FA-7338-4FA5-ACAE-20105AD81C0E}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1708,40.1039 ]
+    },
+    "properties": {
+    "NAME":"Niwot City",
+    "NATIVE_AMERICAN_NAME":"nowoo3",
+    "MEANING":"Chiefs Name; Left Hand. Arapaho Chief",
+    "LOCATION":"Eastern Colorodo",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Lefthand Canyon was named after fur trapper Andrew Sublette in the area in the 1830s.",
+    "COUNTY":"Boulder",
+    "ObjectId":58,
+    "GlobalID":"{AC2ED36E-17E1-4C16-AF87-21977C5BC024}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5520162,40.05679604 ]
+    },
+    "properties": {
+    "NAME":"Niwot Mountain",
+    "NATIVE_AMERICAN_NAME":"nowoo3",
+    "MEANING":"Chiefs Name; Left Hand. Arapaho Chief",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":" ",
+    "COUNTY":"Boulder",
+    "ObjectId":59,
+    "GlobalID":"{7F11B418-9274-4C66-B33F-D5C374A2C9CE}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8927826,40.48254525 ]
+    },
+    "properties": {
+    "NAME":"Nokhu Craggs",
+    "NATIVE_AMERICAN_NAME":"nohuux",
+    "MEANING":"[Eagle's] Nest",
+    "LOCATION":"Never Summer Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English named borrowed from Arapaho",
+    "COUNTY":"Grand",
+    "ObjectId":60,
+    "GlobalID":"{96DBF466-775D-4720-9C28-F22D42F08019}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3089,40.9 ]
+    },
+    "properties": {
+    "NAME":"North Park",
+    "NATIVE_AMERICAN_NAME":"heneeceibooo",
+    "MEANING":"Buffalo Road",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Jackson",
+    "ObjectId":61,
+    "GlobalID":"{44CCD0A7-E714-4D9E-B70E-B6C7B8FF69EE}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.683934,41.290507 ]
+    },
+    "properties": {
+    "NAME":"North Platte River",
+    "NATIVE_AMERICAN_NAME":"bei'i'einiicie",
+    "MEANING":"Shell River",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":113,
+    "GlobalID":"{B85C9CB4-7D6B-4381-B2F0-BA52B153D54D}",
+    "CreationDate":44747.91944,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44747.91944,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6934589,40.31705612 ]
+    },
+    "properties": {
+    "NAME":"Notchtop Mountain",
+    "NATIVE_AMERICAN_NAME":"hoteinetihii",
+    "MEANING":"Mountain Sheep's Trail",
+    "LOCATION":"Continental Divide",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":62,
+    "GlobalID":"{A67BE2A1-8E01-4955-9693-84949534548C}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5424979,40.37685476 ]
+    },
+    "properties": {
+    "NAME":"Old Man Mountain",
+    "NATIVE_AMERICAN_NAME":"hinen toh3i'okut",
+    "MEANING":"Where a Man is Sitting",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English named translated from Arapaho",
+    "COUNTY":"Larimer",
+    "ObjectId":63,
+    "GlobalID":"{7567983A-BDAD-4957-BBF7-7CD099715659}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8462383,40.31505737 ]
+    },
+    "properties": {
+    "NAME":"Onahu Creek",
+    "NATIVE_AMERICAN_NAME":"hoonouhut",
+    "MEANING":"warms himself",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"English name borrowed from Arapaho; also known as \"Fish Creek\" in English",
+    "COUNTY":"Grand",
+    "ObjectId":64,
+    "GlobalID":"{DF22468A-5FCD-4DE2-91E6-1E7EE4E90460}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.1755,40.7625 ]
+    },
+    "properties": {
+    "NAME":"Owl Canyon",
+    "NATIVE_AMERICAN_NAME":"hookoh'o' heetohwoo3ee3ei'",
+    "MEANING":"Where there are Many Miller Moths",
+    "LOCATION":"Front Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":65,
+    "GlobalID":"{948AD140-6B0D-43B2-B02D-B97FD030B664}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4517859,40.4482996 ]
+    },
+    "properties": {
+    "NAME":"Park on West Creek",
+    "NATIVE_AMERICAN_NAME":"woo'teenehi3i' niih'eikuhnee3i'",
+    "MEANING":"Where Utes were Scattered",
+    "LOCATION":"North Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Near Devils Gulch; see West Creek Park",
+    "COUNTY":"Larimer",
+    "ObjectId":66,
+    "GlobalID":"{3A331C76-BD3D-4D14-9911-CA946D81C96E}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.0423,38.8409 ]
+    },
+    "properties": {
+    "NAME":"Pikes Peak",
+    "NATIVE_AMERICAN_NAME":"heeyoteyoo'",
+    "MEANING":"Long or Tall Mountain",
+    "LOCATION":"Front Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"El Paso",
+    "ObjectId":67,
+    "GlobalID":"{BCAEA794-17B9-45C8-B86C-92F0480C00F7}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9450111,40.28171561 ]
+    },
+    "properties": {
+    "NAME":"Porphyry Peaks",
+    "NATIVE_AMERICAN_NAME":"hite3ounokoy",
+    "MEANING":"Crane Lodge",
+    "LOCATION":"South Grand Lake",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":68,
+    "GlobalID":"{3790B224-1511-49EF-84F0-4B47B31B0085}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5218521,40.35760709 ]
+    },
+    "properties": {
+    "NAME":"Prospect Mountain",
+    "NATIVE_AMERICAN_NAME":"biixuut",
+    "MEANING":"The Shirt",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":70,
+    "GlobalID":"{18DF07C5-9555-4AE6-B881-55CC4A7D5953}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8472192,40.24471535 ]
+    },
+    "properties": {
+    "NAME":"Sage Brush Flats ",
+    "NATIVE_AMERICAN_NAME":"nookhoosei'iini'",
+    "MEANING":"There is Lots of Sagebrush",
+    "LOCATION":"Grand Lake",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Guess at location",
+    "COUNTY":"Grand",
+    "ObjectId":71,
+    "GlobalID":"{2C107E30-8D4E-4970-B93C-9118449713F1}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.511,38.5482 ]
+    },
+    "properties": {
+    "NAME":"Sand Creek (Big Sandy Creek)",
+    "NATIVE_AMERICAN_NAME":"noobeiniicie",
+    "MEANING":"Sand River",
+    "LOCATION":"eastern Colorado",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Likely modern loan translation from English",
+    "COUNTY":"",
+    "ObjectId":72,
+    "GlobalID":"{A4A54425-74E0-4086-9FEA-F0B9E1F7D92E}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9344997,40.47645879 ]
+    },
+    "properties": {
+    "NAME":"Seven Utes Mountain",
+    "NATIVE_AMERICAN_NAME":"niisootoxu3i' heetohwo'teenehi3i'",
+    "MEANING":"Where Seven Utes [were killed]",
+    "LOCATION":"Never Summer Range",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Battle site between Arapaho and Ute",
+    "COUNTY":"Grand",
+    "ObjectId":73,
+    "GlobalID":"{28727872-89C8-42A9-B270-41096001F7D0}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5168171,40.51691891 ]
+    },
+    "properties": {
+    "NAME":"Signal Peak",
+    "NATIVE_AMERICAN_NAME":"honooxoenoteyoo'",
+    "MEANING":"Wolf Mountain",
+    "LOCATION":"North Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Guess: USGS South Signal Mountain",
+    "COUNTY":"Larimer",
+    "ObjectId":74,
+    "GlobalID":"{6DF3C106-4118-4565-BA87-13F3DEF5F864}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.340815,40.312805 ]
+    },
+    "properties": {
+    "NAME":"South Platte River",
+    "NATIVE_AMERICAN_NAME":"niineniiniicie",
+    "MEANING":"Tallow/Fat River",
+    "LOCATION":"Eastern Plains",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":117,
+    "GlobalID":"{509B9B3D-A39E-4C82-AA12-B28A738665DE}",
+    "CreationDate":44747.93125,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44747.93125,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8068636,40.44384401 ]
+    },
+    "properties": {
+    "NAME":"Specimen Mountain",
+    "NATIVE_AMERICAN_NAME":"heetohxouu'oo'",
+    "MEANING":"Where it Smokes",
+    "LOCATION":"Kawuneeche Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":75,
+    "GlobalID":"{CB3F583C-1855-42C7-B05E-3BA7979130C2}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.624582,40.34119675 ]
+    },
+    "properties": {
+    "NAME":"Steep Mountain",
+    "NATIVE_AMERICAN_NAME":"heneecee teesnoh'kuhneet",
+    "MEANING":"Buffalo Bull Chased up to the Top",
+    "LOCATION":"Moraine Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":76,
+    "GlobalID":"{DFB4F088-9FCA-4889-A319-670550D7382D}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7199038,40.35237265 ]
+    },
+    "properties": {
+    "NAME":"Stones Peak to Mount Julian and intervening area",
+    "NATIVE_AMERICAN_NAME":"woxse'eihtoo",
+    "MEANING":"The Bear Paws",
+    "LOCATION":"Continental Divide",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":77,
+    "GlobalID":"{595D04DC-8F6D-47E0-AC36-29FA0C44D52E}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8592064,40.0766561 ]
+    },
+    "properties": {
+    "NAME":"Strawberry Creek",
+    "NATIVE_AMERICAN_NAME":"bih'ihiikoh'owu'",
+    "MEANING":"Deer Creek",
+    "LOCATION":"South Grand Lake",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":78,
+    "GlobalID":"{CD0EC8A1-DF5B-4452-ABFD-67728598F4B6}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9031037,40.15820887 ]
+    },
+    "properties": {
+    "NAME":"Table Mountain",
+    "NATIVE_AMERICAN_NAME":"hiikono",
+    "MEANING":"The Lungs",
+    "LOCATION":"South Grand Lake",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":79,
+    "GlobalID":"{8874D2A4-861A-439D-ABCE-3C5DCDBAB199}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6802279,40.27227768 ]
+    },
+    "properties": {
+    "NAME":"Taylor Peak",
+    "NATIVE_AMERICAN_NAME":"towonoxowoo[t]",
+    "MEANING":"The Bangs [haircut]",
+    "LOCATION":"Continental Divide",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"For a Pawnee killed on the mountain",
+    "COUNTY":"Grand",
+    "ObjectId":80,
+    "GlobalID":"{F89CCB3B-7E9F-4E24-BE82-0A6B27F72F25}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6525274,40.27703194 ]
+    },
+    "properties": {
+    "NAME":"Thatchtop Mountain",
+    "NATIVE_AMERICAN_NAME":"hii3einoon toh'ouuhut",
+    "MEANING":"Where a Buffalo Climbed",
+    "LOCATION":"Continental Divide",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":81,
+    "GlobalID":"{8436F633-0355-4DD0-9D3B-DA64B535AEDB}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5162756,40.40156073 ]
+    },
+    "properties": {
+    "NAME":"Twin Owls",
+    "NATIVE_AMERICAN_NAME":"3ee3i'oteyoo'",
+    "MEANING":"Twin Owls",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":82,
+    "GlobalID":"{C10F29AD-3360-430F-A5B9-4364701B3560}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44747.93611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3089,40.9 ]
+    },
+    "properties": {
+    "NAME":"Unknown North Park",
+    "NATIVE_AMERICAN_NAME":"tecenoo",
+    "MEANING":"The Door",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Door between North Park and Laramie Basin",
+    "COUNTY":"Jackson",
+    "ObjectId":84,
+    "GlobalID":"{68F190C3-B562-4D75-ABBE-AFE8C953E172}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7361964,40.49787386 ]
+    },
+    "properties": {
+    "NAME":"Upper Poudre Valley",
+    "NATIVE_AMERICAN_NAME":"ce'eiinox",
+    "MEANING":"Game Bag",
+    "LOCATION":"Cache La Poudre",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Game bags also in Middle Park and north of Estes Park",
+    "COUNTY":"Larimer",
+    "ObjectId":69,
+    "GlobalID":"{6AADA60E-D2BE-45AD-968D-BA235EDE3CF2}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44747.92986,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2836,40.7316 ]
+    },
+    "properties": {
+    "NAME":"Walden area (betw. Michigan and Illinois Rivers)",
+    "NATIVE_AMERICAN_NAME":"beteesibiit",
+    "MEANING":"Fasting",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Jackson",
+    "ObjectId":83,
+    "GlobalID":"{A644BC72-65C7-4ED3-9CF5-EB4B5246F3E1}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.34721,40.653315 ]
+    },
+    "properties": {
+    "NAME":"Watha Gulch",
+    "NATIVE_AMERICAN_NAME":"wooxe",
+    "MEANING":"knife",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":86,
+    "GlobalID":"{8B9FEDC9-381A-445A-836F-6E0885162267}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Watha Gulch",
+    "NATIVE_AMERICAN_NAME":"wooxe",
+    "MEANING":"Knife",
+    "LOCATION":"Cache La Poudre River Valley",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":93,
+    "GlobalID":"{ECC1E405-2845-4577-8C6D-C684FC327ADC}",
+    "CreationDate":44726.89931,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.9,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4588908,40.43874002 ]
+    },
+    "properties": {
+    "NAME":"West Creek Park",
+    "NATIVE_AMERICAN_NAME":"heneecee tihtebiini3eet",
+    "MEANING":"Where there was a One-horned Buffalo Bull",
+    "LOCATION":"North Estes Park",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"See Park on West Creek",
+    "COUNTY":"Larimer",
+    "ObjectId":87,
+    "GlobalID":"{F9020839-0FDE-400B-8DED-1AB2C2793EF5}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7761035,40.47599136 ]
+    },
+    "properties": {
+    "NAME":"Willow Creek",
+    "NATIVE_AMERICAN_NAME":"ce'eiinox",
+    "MEANING":"Game Bag",
+    "LOCATION":"Cache La Poudre",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Guess at location",
+    "COUNTY":"Larimer",
+    "ObjectId":88,
+    "GlobalID":"{FCB472D0-4C96-4619-BF38-8071B58FE6C4}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Woman's Trail",
+    "NATIVE_AMERICAN_NAME":"hiseibooo",
+    "MEANING":"Woman's Trail",
+    "LOCATION":"",
+    "LANGUAGE":"Arapaho",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Apishapa River",
+    "NATIVE_AMERICAN_NAME":"oo'evótåhtsé-o'hé'e",
+    "MEANING":"'Quarreling River'",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":10,
+    "GlobalID":"{B245E281-4869-49D2-A818-26E99B81A250}",
+    "CreationDate":44818.77083,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44818.77153,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arikaree River",
+    "NATIVE_AMERICAN_NAME":"ononé-o'hé'e / ónone-ó'he'e",
+    "MEANING":"'Arikara River'",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Cf Cheyenne ónone 'Arikara'",
+    "COUNTY":"",
+    "ObjectId":11,
+    "GlobalID":"{81E05572-6008-4071-809E-4C929C23DAE0}",
+    "CreationDate":44818.77292,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44818.82153,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arkansas River",
+    "NATIVE_AMERICAN_NAME":"motsėsóo(e)né-o'hé'e",
+    "MEANING":"'Flint Arrowhead River'",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":12,
+    "GlobalID":"{034521F8-796A-481E-ADF5-F28A816B49B6}",
+    "CreationDate":44818.8125,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44818.81319,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5616,38.34424 ]
+    },
+    "properties": {
+    "NAME":"Cimarron River",
+    "NATIVE_AMERICAN_NAME":"hotoa(e)-o'hé'e / hotóa-ó'he'e",
+    "MEANING":"'(Buffalo) Bull River'",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Cf. Cheyenne hotóa-, newer name, borrowed from Comanche",
+    "COUNTY":"",
+    "ObjectId":14,
+    "GlobalID":"{BC46E832-991B-475D-B567-E416BE4CC10F}",
+    "CreationDate":44818.81667,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44818.82292,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5618,38.34458 ]
+    },
+    "properties": {
+    "NAME":"Cimarron River",
+    "NATIVE_AMERICAN_NAME":"no'otsehé-o'hé'e",
+    "MEANING":"'Many Pipe Smoke River'",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Cf Cheyenne no'otsehe 'smoke with others', older name, originally Sioux",
+    "COUNTY":"",
+    "ObjectId":20,
+    "GlobalID":"{98B25ED9-63C5-45E2-A18A-AB7960210B10}",
+    "CreationDate":44818.82222,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44818.82292,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Crow Creek",
+    "NATIVE_AMERICAN_NAME":"ókohké-o'hé'e",
+    "MEANING":"'Crow Creek'",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Northern Cheyenne name. Cf. ókohke 'crow bird'",
+    "COUNTY":"",
+    "ObjectId":15,
+    "GlobalID":"{892D6743-9DED-4E69-915C-151B7B3439B1}",
+    "CreationDate":44818.81944,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44818.82014,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Crow Creek",
+    "NATIVE_AMERICAN_NAME":"óoetané-o'hé'e",
+    "MEANING":"'Crow Creek'",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Southern Cheyenne name. Cf. óoetane 'Crow Indian'",
+    "COUNTY":"",
+    "ObjectId":16,
+    "GlobalID":"{C1B03B2E-BF93-42C9-B1A0-1CDFB9F51ED1}",
+    "CreationDate":44818.82014,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44818.82083,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.61766,38.52539 ]
+    },
+    "properties": {
+    "NAME":"Fountain Creek",
+    "NATIVE_AMERICAN_NAME":"héesevó'te-o'hé'e",
+    "MEANING":"Boiling River'",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Cf. Cheyenne héesevo'ta- 'bubbling'",
+    "COUNTY":"",
+    "ObjectId":21,
+    "GlobalID":"{CE55B239-BFFA-4BDA-87C9-6CCA91F85030}",
+    "CreationDate":44818.82361,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44818.82431,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Frenchman Fork, Republican River",
+    "NATIVE_AMERICAN_NAME":"vé'ho'é-ó'he'e",
+    "MEANING":"White Man River",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Laramie River",
+    "NATIVE_AMERICAN_NAME":"héna'e[ne]-ó'he'e",
+    "MEANING":"Goose River",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Lodgepole Creek",
+    "NATIVE_AMERICAN_NAME":"hoóx'e-ó'he'e",
+    "MEANING":"Lodepole River",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.616,40.2549 ]
+    },
+    "properties": {
+    "NAME":"Long's Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Buffalo Lodge",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Boulder",
+    "ObjectId":5,
+    "GlobalID":"{22DAED2B-079A-442D-8949-B6D1526D9AB7}",
+    "CreationDate":44726.84514,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84514,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Mud Creek",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Miry Creek/Soft Ground",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"North Platte River",
+    "NATIVE_AMERICAN_NAME":"méne'e-ó'he'e",
+    "MEANING":"(Moon) Shell River",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.0423,38.8409 ]
+    },
+    "properties": {
+    "NAME":"Pikes Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Bald Peak",
+    "LOCATION":"Front Range",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"El Paso",
+    "ObjectId":6,
+    "GlobalID":"{5D1CC115-39B6-421D-BCC8-0184A8BEF5BE}",
+    "CreationDate":44726.84514,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84514,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Platte River",
+    "NATIVE_AMERICAN_NAME":"méne'e-ó'he'e",
+    "MEANING":"(Moon) Shell River",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Purgatoire River",
+    "NATIVE_AMERICAN_NAME":"hótoaná-ó'he'e",
+    "MEANING":"Difficult River",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Redwillow River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Red Willow River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Republican River",
+    "NATIVE_AMERICAN_NAME":"ma´-óohevá-ó'he'e",
+    "MEANING":"Red Shield River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Republican River, North Fork",
+    "NATIVE_AMERICAN_NAME":"véhone-ó'he'e",
+    "MEANING":"Chief River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Rio Grande River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"White Man River",
+    "LOCATION":"San Luis Valley",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Rocky Mountains",
+    "NATIVE_AMERICAN_NAME":"ho‘honáá‘e",
+    "MEANING":"Rocks",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -99.10474,37.09809 ]
+    },
+    "properties": {
+    "NAME":"Salt Fork of the Arkansas",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Salt River",
+    "LOCATION":"",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":7,
+    "GlobalID":"{9705D7EE-9B84-4C66-8EEB-DB8577FEEB17}",
+    "CreationDate":44726.84514,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84514,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.511,38.5482 ]
+    },
+    "properties": {
+    "NAME":"Sand Creek (Big Sandy Creek)",
+    "NATIVE_AMERICAN_NAME":"ponoe-ó'he'e",
+    "MEANING":"Dry Creek",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":8,
+    "GlobalID":"{C79B5427-33E4-4F19-8FD9-6CB3A222D2A5}",
+    "CreationDate":44726.84514,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84514,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Smoky Hill River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Timber Grove River/Bunch of Trees River",
+    "LOCATION":"Eastern Plains",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"South Platte River",
+    "NATIVE_AMERICAN_NAME":"vetane-ó'he'e",
+    "MEANING":"Tallow/Fat River",
+    "LOCATION":"Eastern Plains",
+    "LANGUAGE":"Cheyenne",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2181,38.325 ]
+    },
+    "properties": {
+    "NAME":"Antora Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Unitah Ute Chief Antero",
+    "LOCATION":"",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Possible variant name for Antero",
+    "COUNTY":"Saguache",
+    "ObjectId":4,
+    "GlobalID":"{AA1431EC-6B78-465E-9D24-8A0F61714287}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.02464,37.34851 ]
+    },
+    "properties": {
+    "NAME":"Apishapa Pass",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Mossy water",
+    "LOCATION":"Southeast Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Pass at head of Apishapa River",
+    "COUNTY":"Huerfano",
+    "ObjectId":5,
+    "GlobalID":"{407FDF86-086C-4E3A-BA35-22E65DEF0430}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Apishapa River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Mossy water",
+    "LOCATION":"Southeast Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Las Animas",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9129,39.563 ]
+    },
+    "properties": {
+    "NAME":"Atchee Town",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name: bow or fathers younger brother",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Ute Chief",
+    "COUNTY":"Garfield",
+    "ObjectId":6,
+    "GlobalID":"{DCBB8684-D890-4B68-B411-4C60F239ED64}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.009,38.6811 ]
+    },
+    "properties": {
+    "NAME":"Chipeta",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"A Spring",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Wife of Ute Chief Ouray -- name on several features",
+    "COUNTY":"Many",
+    "ObjectId":8,
+    "GlobalID":"{11EFDC66-0B0A-47AA-9CB2-3C3B816E10E8}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Cochetopa Creek",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Buffalo Emerging",
+    "LOCATION":"San Luis Valley",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Gunnison",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.7148,38.2267 ]
+    },
+    "properties": {
+    "NAME":"Cochetopa Dome",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Buffalo Emerging",
+    "LOCATION":"San Luis Valley",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Source of obsidian",
+    "COUNTY":"Saguache",
+    "ObjectId":9,
+    "GlobalID":"{71BE51FF-E4F5-4A79-B453-1321D9641181}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.5998,38.1629 ]
+    },
+    "properties": {
+    "NAME":"Cochetopa Pass",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Buffalo Emerging",
+    "LOCATION":"San Luis Valley",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Pass also called \"North Pass\" between San L and Gunnison",
+    "COUNTY":"Saguache",
+    "ObjectId":10,
+    "GlobalID":"{5E7D0B19-307F-4F8E-96E6-2AE6E660DC54}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.179,40.1822 ]
+    },
+    "properties": {
+    "NAME":"Colorow Mountain",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name: Red (?)",
+    "LOCATION":"Several Locations",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Ute Indian chief of Comanche origins",
+    "COUNTY":"Rio Blanco",
+    "ObjectId":11,
+    "GlobalID":"{D9EFB261-615F-4DDF-A67E-13D13B51A5BB}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.67869,40.5476 ]
+    },
+    "properties": {
+    "NAME":"Comanche Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Enemy Foreigner",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":12,
+    "GlobalID":"{48840D48-6955-49CE-8D94-7CAFF0AEDD68}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.3005,39.9855 ]
+    },
+    "properties": {
+    "NAME":"Comanche Town",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Enemy Foreigner",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Adams",
+    "ObjectId":13,
+    "GlobalID":"{495CE80F-6C9B-45A6-8F4E-10AB46CB20D4}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Escalante Creek ?",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Anacapgari",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Dominguez-Escalante called it the San Francisco",
+    "COUNTY":"Delta",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8159199,40.24257082 ]
+    },
+    "properties": {
+    "NAME":"Grand Lake",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Big, Holy, or Spirit Lake",
+    "LOCATION":"Spirit Lake",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Grand",
+    "ObjectId":18,
+    "GlobalID":"{1B6228F8-C6A2-4E8A-9C82-CA46F166CFD8}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Gunnison River and Valley",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tomichi",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Dominguez-Escalante",
+    "COUNTY":"Delta",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.0726,37.3838 ]
+    },
+    "properties": {
+    "NAME":"Hovenweep Canyon",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Bone Canyon",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Montezuma",
+    "ObjectId":19,
+    "GlobalID":"{2569C358-15D4-4482-94B3-7CBE99E2FF2F}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Kaibab",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"plateau / mountain",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Eagle",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.447,38.9391 ]
+    },
+    "properties": {
+    "NAME":"Kannah",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Willow or Valley of Willows",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Town (?) and Creek on Gunnison River",
+    "COUNTY":"Mesa",
+    "ObjectId":20,
+    "GlobalID":"{184ED0E2-F1AE-438B-BDE6-7935CB4538C2}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6156191,40.25271087 ]
+    },
+    "properties": {
+    "NAME":"Longs Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Beaver Mountain",
+    "LOCATION":"Continental Divide",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Ute Name",
+    "COUNTY":"Boulder",
+    "ObjectId":21,
+    "GlobalID":"{5383F340-6AFC-4901-BF20-4A14C3AFA2CC}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.4608,40.181 ]
+    },
+    "properties": {
+    "NAME":"Morapos",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"something big",
+    "LOCATION":"Northwestern Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Could also be a Scottish name",
+    "COUNTY":"Moffat",
+    "ObjectId":22,
+    "GlobalID":"{7D828E9E-D2B3-457B-A25A-DECE038B7671}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.7345,37.6603 ]
+    },
+    "properties": {
+    "NAME":"Narraguinnep Canyon",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"battleground",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Dolores",
+    "ObjectId":23,
+    "GlobalID":"{C26938A1-A472-4F1F-BA4B-7B504140AE4D}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.066752,37.443908 ]
+    },
+    "properties": {
+    "NAME":"Pagosa Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"hot spring water",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Archuleta",
+    "ObjectId":29,
+    "GlobalID":"{BF1AF5C1-C621-4C5B-9ED1-1E7B15CD5E08}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.0098,37.2694 ]
+    },
+    "properties": {
+    "NAME":"Pagosa Springs",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"hot spring water",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Archuleta",
+    "ObjectId":30,
+    "GlobalID":"{4DE68D7F-D71F-4599-82F9-E1CB6F358505}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2581,38.4806 ]
+    },
+    "properties": {
+    "NAME":"Pahlone Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"thunder while raining",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Son of Chief Ouray",
+    "COUNTY":"Chaffee",
+    "ObjectId":31,
+    "GlobalID":"{71BC40FB-C4AE-411A-B5BD-D42646BAAF72}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9497911,39.7639877 ]
+    },
+    "properties": {
+    "NAME":"Rawah Peaks",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"crest of a mountain ridge",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":32,
+    "GlobalID":"{45F66EAC-338C-4337-8AF6-423286B2198E}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.7741,37.8181 ]
+    },
+    "properties": {
+    "NAME":"Timpas ",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"stone or iron",
+    "LOCATION":"Eastern Colorqdo",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"May be Spanish, Paiute, or Ute",
+    "COUNTY":"Otero",
+    "ObjectId":36,
+    "GlobalID":"{E580B26B-ACE2-4A68-8FC0-E209CF63BB27}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.8081,40.0603 ]
+    },
+    "properties": {
+    "NAME":"Toponas",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Meaning of word is unknown",
+    "LOCATION":"Northwestern Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Routt",
+    "ObjectId":37,
+    "GlobalID":"{95AA4E78-5A4C-4E5C-AD7C-AD07AD7000F5}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.7295,37.2044 ]
+    },
+    "properties": {
+    "NAME":"Towaoc",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"all right, its good, thank you",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Capitol of Ute Mountain Indian Reservation",
+    "COUNTY":"Montezuma",
+    "ObjectId":38,
+    "GlobalID":"{64A0800D-576F-424A-B6B0-9A85DEF419D8}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Uintah Range",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"pine canyon-mouth",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Moffat",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.655,38.7906 ]
+    },
+    "properties": {
+    "NAME":"Unaweep Canyon and Divide",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"fire canyon",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Mesa",
+    "ObjectId":39,
+    "GlobalID":"{1215AF7F-BA8B-4AF0-B6BA-8C298A9B729C}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.462,38.0717 ]
+    },
+    "properties": {
+    "NAME":"Uncompahgre Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"red lake.  ",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Name recorded by Dominguez-Escalante in 1776",
+    "COUNTY":"Hinsdale",
+    "ObjectId":40,
+    "GlobalID":"{56E41B99-120A-446A-9CC1-6ADC1ED55EA8}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Uncompahgre River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"red lake",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Delta, Montrose, and San Juan Counties. Name recorded by Dominguez-Escalante in 1776",
+    "COUNTY":"Delta",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.1961,39.5572 ]
+    },
+    "properties": {
+    "NAME":"Uneva",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"mountainous country",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"Summit",
+    "ObjectId":41,
+    "GlobalID":"{502DCA28-07C5-4290-975C-F2D83B7F09A9}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9789,37.4667 ]
+    },
+    "properties": {
+    "NAME":"Weminuche",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"canyon people",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Weminuche Band of Ute; Weminuche Creek and Wilderness",
+    "COUNTY":"Hinsdale",
+    "ObjectId":43,
+    "GlobalID":"{E8F1032E-FE73-4D19-9E0C-43363C33C3E0}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9087,40.1525 ]
+    },
+    "properties": {
+    "NAME":"Yampa",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Name for plant Perideridia gairdneri",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Ute",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Yampa River; Yampa/White River Band",
+    "COUNTY":"Many",
+    "ObjectId":44,
+    "GlobalID":"{05EF7DEC-2067-443C-A50B-891A6B6B292D}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"",
+    "LOCATION":"",
+    "LANGUAGE":"",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arapaho County",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tattoo",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Crow",
+    "COMMENT":"",
+    "COUNTY":"Arapaho",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"North Platte River",
+    "NATIVE_AMERICAN_NAME":"baleaxxiiláashe",
+    "MEANING":"Shell River",
+    "LOCATION":"North Park",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Crow",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"South Platte River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Grease River",
+    "LOCATION":"eastern plains",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Crow",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arkansas River",
+    "NATIVE_AMERICAN_NAME":"sē-se-vāu",
+    "MEANING":"Arrowhead/Flint River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Caddo Creek",
+    "NATIVE_AMERICAN_NAME":"sē-a-lāu-vāu",
+    "MEANING":"Prickly Pear Creek",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"Bent",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Cimarron River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Buffalo Bull River",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"newer name",
+    "COUNTY":"Baca",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Cimarron River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Many Pipe Dance River",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"older name",
+    "COUNTY":"Baca",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Clay Creek",
+    "NATIVE_AMERICAN_NAME":"yal-da-vāu",
+    "MEANING":"Hill Creek",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"Prowers",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Clay Creek",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Creek where there is Paint",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Colorado River",
+    "NATIVE_AMERICAN_NAME":"vāu-êl",
+    "MEANING":"Big River",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Colorado Springs area",
+    "NATIVE_AMERICAN_NAME":"tō-bin-da-dāu",
+    "MEANING":"Boiling Water",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Driftwood Creek",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Driftwood Creek",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Fountain Creek",
+    "NATIVE_AMERICAN_NAME":"tō-tep-vāu",
+    "MEANING":"Spring Creek",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.92055,38.85778 ]
+    },
+    "properties": {
+    "NAME":"Manitou Springs",
+    "NATIVE_AMERICAN_NAME":"tō-tep-vāu",
+    "MEANING":"Spring Creek",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.0442,38.8405 ]
+    },
+    "properties": {
+    "NAME":"Pikes Peak",
+    "NATIVE_AMERICAN_NAME":"thai-qop",
+    "MEANING":"White Mountain",
+    "LOCATION":"Front Range",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Purgatoire River",
+    "NATIVE_AMERICAN_NAME":"xō-vāu",
+    "MEANING":"Rock River",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Republican River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Cannonball River",
+    "LOCATION":"eastern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Rocky Mountains",
+    "NATIVE_AMERICAN_NAME":"ī-jā-qop",
+    "MEANING":"Ute Mountains",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Sand Creek (Big Sandy Creek)",
+    "NATIVE_AMERICAN_NAME":"to-he-vāu",
+    "MEANING":"Dry/Waterless Creek",
+    "LOCATION":"eastern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Smoky Hill River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Pawnee River",
+    "LOCATION":"eastern plains",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Smoky Hill River",
+    "NATIVE_AMERICAN_NAME":"fē-vāu",
+    "MEANING":"Sandy River",
+    "LOCATION":"eastern plains",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"South Platte River",
+    "NATIVE_AMERICAN_NAME":"jon-vāu",
+    "MEANING":"Tallow/Fat River",
+    "LOCATION":"eastern plains",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.54251,37.66029 ]
+    },
+    "properties": {
+    "NAME":"Two Buttes",
+    "NATIVE_AMERICAN_NAME":"yal-da",
+    "MEANING":"Hill",
+    "LOCATION":"Baca County",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.5409,37.66093 ]
+    },
+    "properties": {
+    "NAME":"Two Buttes",
+    "NATIVE_AMERICAN_NAME":"yī-yal-da",
+    "MEANING":"Two Hills",
+    "LOCATION":"Baca County",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arikaree River",
+    "NATIVE_AMERICAN_NAME":"pȟaláni wakpá",
+    "MEANING":"Arikara River",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Lakota",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arkansas River",
+    "NATIVE_AMERICAN_NAME":"wahíŋ wakpá",
+    "MEANING":"Flint River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Lakota",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.00857,39.75464 ]
+    },
+    "properties": {
+    "NAME":"Denver",
+    "NATIVE_AMERICAN_NAME":"ȟeská otȟúŋwahe",
+    "MEANING":"Rocky Mountain Town",
+    "LOCATION":"Denver",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Lakota",
+    "COMMENT":"",
+    "COUNTY":"Denver",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Laramie River",
+    "NATIVE_AMERICAN_NAME":"mağá wakpá",
+    "MEANING":"Goose River",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Lakota",
+    "COMMENT":"",
+    "COUNTY":"Larimer",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Republican River",
+    "NATIVE_AMERICAN_NAME":"pȟaŋğí wakpá",
+    "MEANING":"Jerusalem Artichoke River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Lakota",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Rocky Mountains",
+    "NATIVE_AMERICAN_NAME":"ȟeská",
+    "MEANING":"White Mountain(s)",
+    "LOCATION":"",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Lakota",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"South Platte River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tallow/Fat River",
+    "LOCATION":"Eastern Plains",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Lakota",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arkansas River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Long River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9460036,40.3831858 ]
+    },
+    "properties": {
+    "NAME":"Parika Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"horn",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"Unknown who named it",
+    "COUNTY":"Jackson",
+    "ObjectId":7,
+    "GlobalID":"{89EA03A9-3E43-4FA2-A2E3-29668B69D749}",
+    "CreationDate":44726.84444,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84444,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Platte River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Flat River",
+    "LOCATION":"Nebraska",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Republican River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Manure River",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Smoky Hill River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Yellow Banks",
+    "LOCATION":"Eastern Plains",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arkansas River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribal name",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Algonquian",
+    "COMMENT":"Kansa Indians; French use by 1673",
+    "COUNTY":"Many",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.23921,38.62036 ]
+    },
+    "properties": {
+    "NAME":"Shavano, Mount",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Tabeguache Band",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Algonquian",
+    "COMMENT":"Documents say \"Chavanaux\" for Shawnee",
+    "COUNTY":"Chaffee",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Tioga",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"junction or fork",
+    "LOCATION":"Southeast Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Algonquian",
+    "COMMENT":"Mohawk word",
+    "COUNTY":"Huerfano",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Guajotoyah Creek",
+    "NATIVE_AMERICAN_NAME":"wahaatü 'two'",
+    "MEANING":"Two Mountains",
+    "LOCATION":"Southeast Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Comanche",
+    "COMMENT":"From Comanche Guajotoyah",
+    "COUNTY":"Las Animas",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Spanish Peaks",
+    "NATIVE_AMERICAN_NAME":"wahaatü 'two'",
+    "MEANING":"Two Mountains",
+    "LOCATION":"Southeast Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Comanche",
+    "COMMENT":"From Comanche Guajotoyah",
+    "COUNTY":"Huerfano",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.531617,40.34436415 ]
+    },
+    "properties": {
+    "NAME":"Marys Lake",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Marys Lake",
+    "LOCATION":"Estes Park",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Anglo",
+    "COMMENT":"Arapaho camp of 1865 at lake",
+    "COUNTY":"Larimer",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.51941,39.7419 ]
+    },
+    "properties": {
+    "NAME":"Idaho Springs",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Enemy",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Apache",
+    "COMMENT":"Name \"idaahe\" used by Apache to refer to Comanche",
+    "COUNTY":"Clear Creek",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Toltec",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"tules or reeds.",
+    "LOCATION":"Southeast Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Aztec",
+    "COMMENT":"WBB: probably from Hispanic occupations",
+    "COUNTY":"Huerfano",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4777966,40.90686379 ]
+    },
+    "properties": {
+    "NAME":"Cherokee Park",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Cherokee",
+    "COMMENT":"Named for a group of Cherokee who stoped at park in 1830s",
+    "COUNTY":"Larimer",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Wahatoya Creek",
+    "NATIVE_AMERICAN_NAME":"wahaatü 'two'",
+    "MEANING":"Two Mountains",
+    "LOCATION":"Southeast Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Comanche",
+    "COMMENT":"From Comanche Guajotoyah",
+    "COUNTY":"Huerfano",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Tallahassee Creek",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Muskogean word for old town",
+    "LOCATION":"Southern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Creek",
+    "COMMENT":"",
+    "COUNTY":"Fremont",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Moqui Canyon",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name: Hopi Tribe",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Hopi",
+    "COMMENT":"",
+    "COUNTY":"Montezuma",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7155551,40.25391092 ]
+    },
+    "properties": {
+    "NAME":"Lake Nanita",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Lake Nanita",
+    "LOCATION":"Grand Lake",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Navajo",
+    "COMMENT":"Means \"plains Indians\" by some Texas tribe = Comanche",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7754559,40.34158997 ]
+    },
+    "properties": {
+    "NAME":"Nakai Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Nakai Peak",
+    "LOCATION":"Continental Divide",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Navajo",
+    "COMMENT":"Means \"white stranger:, ie., Spanish\"",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Tacoma",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Salishan name for Mount Ranier",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Salishan",
+    "COMMENT":"",
+    "COUNTY":"La Plata",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Piceance Creek and Basin",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"tall grass",
+    "LOCATION":"Northwestern Colorado",
+    "LANGUAGE":"Other",
+    "SUBLANGUAGE":"Shoshoni",
+    "COMMENT":"Original spelling Pice Ance",
+    "COUNTY":"Rio Blanco",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.314322,39.711044 ]
+    },
+    "properties": {
+    "NAME":"Chief Hosa Area",
+    "NATIVE_AMERICAN_NAME":"houusoo",
+    "MEANING":"Chiefs Name: Crow Offspring",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Arapaho",
+    "COMMENT":"Named by CO Geographic Board after Arapaho Chief Hosa (Houusoo)",
+    "COUNTY":"Arapahoe",
+    "ObjectId":91,
+    "GlobalID":"{570527C8-BD11-4E0C-AA48-7AB5D073ECB7}",
+    "CreationDate":44726.89167,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.89236,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7621869,40.34369622 ]
+    },
+    "properties": {
+    "NAME":"Haynach Lakes",
+    "NATIVE_AMERICAN_NAME":"hiiinec",
+    "MEANING":"Snow water",
+    "LOCATION":"Grand Lake",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Arapaho",
+    "COMMENT":"Named by Colorado Geographic Board",
+    "COUNTY":"Grand",
+    "ObjectId":36,
+    "GlobalID":"{162808FD-4FCC-4B30-AB5F-0944CB6A8C4E}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6562806,40.30266906 ]
+    },
+    "properties": {
+    "NAME":"Lake Haiyaha",
+    "NATIVE_AMERICAN_NAME":"hoh'oooyoo'",
+    "MEANING":"Rocks All Around",
+    "LOCATION":"Glacier Gorge",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Arapaho",
+    "COMMENT":"Named by Colorado Geographic Board",
+    "COUNTY":"Larimer",
+    "ObjectId":42,
+    "GlobalID":"{13C27514-6CD9-4BA7-B05E-69244381C649}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6597987,40.3316587 ]
+    },
+    "properties": {
+    "NAME":"Mount Wuh",
+    "NATIVE_AMERICAN_NAME":"wox",
+    "MEANING":"Bear",
+    "LOCATION":"Moraine Park",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Arapaho",
+    "COMMENT":"Named by RMNP Supt. Roger Toll in 1923",
+    "COUNTY":"Larimer",
+    "ObjectId":119,
+    "GlobalID":"{DD4F3234-57E9-4F27-8853-79997458679D}",
+    "CreationDate":44747.9375,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44747.9375,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7977571,40.28472558 ]
+    },
+    "properties": {
+    "NAME":"Nisa Mountain",
+    "NATIVE_AMERICAN_NAME":"niisoo",
+    "MEANING":"Twin",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Arapaho",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Grand",
+    "ObjectId":112,
+    "GlobalID":"{BF4065DE-506A-4800-8F9E-2928A7036476}",
+    "CreationDate":44747.91736,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44747.91736,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7131722,40.1668592 ]
+    },
+    "properties": {
+    "NAME":"Watanga Mountain",
+    "NATIVE_AMERICAN_NAME":"wo'teenkoo'oh",
+    "MEANING":"Black Coyote (Arapaho chief's name)",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Arapaho",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Grand",
+    "ObjectId":85,
+    "GlobalID":"{4F7C93CD-44CD-4507-8CED-2B434B73E5B1}",
+    "CreationDate":44726.84583,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84583,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.328611,38.049444 ]
+    },
+    "properties": {
+    "NAME":"Camp Amache",
+    "NATIVE_AMERICAN_NAME":"amåhtóohe ?",
+    "MEANING":"",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Cheyenne",
+    "COMMENT":"WWII Japanese Relocation Center; Daugher of Cheynne Chief Ochinee",
+    "COUNTY":"Prowers",
+    "ObjectId":2,
+    "GlobalID":"{70016B25-1929-4091-8979-23E383CED855}",
+    "CreationDate":44726.84514,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84514,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.6216,38.8003 ]
+    },
+    "properties": {
+    "NAME":"Cheyenne County",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Cheyenne",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Cheyenne",
+    "ObjectId":3,
+    "GlobalID":"{9DE5ADC0-EC56-4469-BFBE-8688BDF91D1F}",
+    "CreationDate":44726.84514,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84514,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.3532,38.8214 ]
+    },
+    "properties": {
+    "NAME":"Cheyenne Wells Town",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Cheyenne",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Cheyenne",
+    "ObjectId":4,
+    "GlobalID":"{DAB001DD-8909-448D-B5E0-F1618D566198}",
+    "CreationDate":44726.84514,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84514,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.67863,40.0729 ]
+    },
+    "properties": {
+    "NAME":"Mount Achonee",
+    "NATIVE_AMERICAN_NAME":"ó‘kénėstse ",
+    "MEANING":"Chiefs Name; Named by Colo Geographic Board",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Cheyenne",
+    "COMMENT":"Named for Cheyenne subchief One Eye killed at Sand Creek 1864",
+    "COUNTY":"Grand",
+    "ObjectId":1,
+    "GlobalID":"{F1CD1817-039F-41BA-86B3-81EA5051287F}",
+    "CreationDate":44726.84514,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84514,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.1,39.1 ]
+    },
+    "properties": {
+    "NAME":"Awaiukut Plateau",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name: he's not coming",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Also spelled O-Wi-Yu-Kuts; Named by Colo Geographic Board ",
+    "COUNTY":"Moffat",
+    "ObjectId":7,
+    "GlobalID":"{53E337C6-A94B-445D-9F05-DA19EF118AA8}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.414167,38.448889 ]
+    },
+    "properties": {
+    "NAME":"Curecanti Needle",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Curicata was a Tabeguache Ute Chief",
+    "LOCATION":"Southern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Gunnison",
+    "ObjectId":14,
+    "GlobalID":"{965D4912-9B26-434F-AA9E-C950EB2091F0}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.3706,38.7089 ]
+    },
+    "properties": {
+    "NAME":"Curecanti Pass",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Curicata was a Tabeguache Ute Chief",
+    "LOCATION":"Southern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Gunnison",
+    "ObjectId":15,
+    "GlobalID":"{A7E841BF-96C1-4FEE-8A03-0DCFA08D8A38}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.8032,39.5975 ]
+    },
+    "properties": {
+    "NAME":"Douglas Pass",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; White River Ute Chief called \"Douglas\"",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Garfield",
+    "ObjectId":16,
+    "GlobalID":"{DAF9FC8F-5752-4FEE-BFCB-ECB1C6E2F3F6}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6872209,40.00492521 ]
+    },
+    "properties": {
+    "NAME":"Neva, Mount",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"song; also nevo.  Brother of Chief Niwot",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":" Named by Colo Geographic Board",
+    "COUNTY":"Boulder",
+    "ObjectId":24,
+    "GlobalID":"{4D677855-1679-42E1-A3D3-123562249CC4}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.6714,38.0228 ]
+    },
+    "properties": {
+    "NAME":"Ouray County",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name: Ute",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Named by Colo Geographic Board; see Bangert 1986 for Ouray Bio.",
+    "COUNTY":"Ouray",
+    "ObjectId":25,
+    "GlobalID":"{18958A58-4B50-4B82-B847-6A291AF2DD02}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2253,38.4225 ]
+    },
+    "properties": {
+    "NAME":"Ouray Mountain",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name: Ute",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Saguache",
+    "ObjectId":26,
+    "GlobalID":"{BC3D3F15-D506-4899-B420-7D8EEBBA52E1}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.565,39.0542 ]
+    },
+    "properties": {
+    "NAME":"Ouray Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name: Ute",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Chaffee",
+    "ObjectId":27,
+    "GlobalID":"{802CD0AB-371F-401A-B80B-CD8CE16FA0F2}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.1,39.1 ]
+    },
+    "properties": {
+    "NAME":"O-Wi-Yu-Kuts Plateau",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; he's not coming.  ",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Also spelled Awaiukut; Named by Colo Geographic Board",
+    "COUNTY":"Moffat",
+    "ObjectId":28,
+    "GlobalID":"{CDB9B8EE-9E1E-4849-8C96-757EF8031F2C}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.3023,38.4594 ]
+    },
+    "properties": {
+    "NAME":"Sapinero",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Brother-in-law of Chief Ouray",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Name could be Spanish; Named by Colo Geographic Board",
+    "COUNTY":"Gunnison",
+    "ObjectId":33,
+    "GlobalID":"{FDF7727E-A730-485D-807B-C9A5876BAA19}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2509,38.6253 ]
+    },
+    "properties": {
+    "NAME":"Tabeguache Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name for Northern Ute",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Chaffee",
+    "ObjectId":34,
+    "GlobalID":"{29051FD8-39BB-4F35-BFC0-48FD765C5390}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.7959,37.89 ]
+    },
+    "properties": {
+    "NAME":"Wasatch Mountain",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"blue heron.",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"San Miguel",
+    "ObjectId":42,
+    "GlobalID":"{9859BC07-C9AF-4D36-910E-240FCDE03796}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Yarmony",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; quiet man.",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Ute",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Eagle",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6763913,40.01280932 ]
+    },
+    "properties": {
+    "NAME":"Arapaho Pass",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tattoo",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Crow",
+    "COMMENT":"Named by Colo Geographic Board 1877",
+    "COUNTY":"Grand",
+    "ObjectId":1,
+    "GlobalID":"{B30BED93-7F21-4D20-8F4F-BEEAA4E736F4}",
+    "CreationDate":44726.84444,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84444,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6499754,40.02460099 ]
+    },
+    "properties": {
+    "NAME":"Arapaho Peak - North",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tattoo",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Crow",
+    "COMMENT":"Named by Colo Geographic Board 1877",
+    "COUNTY":"Grand",
+    "ObjectId":2,
+    "GlobalID":"{2CA817E3-4D5A-4164-AE74-62FE23C204AD}",
+    "CreationDate":44726.84444,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84444,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6487506,40.01777852 ]
+    },
+    "properties": {
+    "NAME":"Arapaho Peak - South",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tattoo",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Crow",
+    "COMMENT":"Named by Colo Geographic Board 1877",
+    "COUNTY":"Grand",
+    "ObjectId":3,
+    "GlobalID":"{CAF7BC86-43CB-4AAC-BF00-36756202CA3D}",
+    "CreationDate":44726.84444,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84444,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arapahoe Town",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tattoo",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Crow",
+    "COMMENT":"Named by Colo Geographic Board 1877",
+    "COUNTY":"Cheyenne",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9427449,40.24388649 ]
+    },
+    "properties": {
+    "NAME":"Apiatan Mountain",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Kiowa Chief after 1910",
+    "LOCATION":"",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6233205,40.04589309 ]
+    },
+    "properties": {
+    "NAME":"Kiowa Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name; One of the Indian Peaks",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Boulder",
+    "ObjectId":4,
+    "GlobalID":"{8D55B7BB-050C-4B79-BA7D-CCB125B5B1BC}",
+    "CreationDate":44726.84444,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84444,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.46421,39.34706 ]
+    },
+    "properties": {
+    "NAME":"Kiowa Town and County",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribal Name",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Boulder",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.689191,40.02375272 ]
+    },
+    "properties": {
+    "NAME":"Santanta Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; aka Satank",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Grand",
+    "ObjectId":5,
+    "GlobalID":"{B3DA61DA-6F91-4D34-9083-A0C37EA2FE11}",
+    "CreationDate":44726.84444,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84444,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.2283,39.4138 ]
+    },
+    "properties": {
+    "NAME":"Satank",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Kiowa chief better known as Santanta",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Garfield",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Tahosa Valley",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"dwellers of the mountain tops",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Kiowa",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Larimer",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6377386,40.04452625 ]
+    },
+    "properties": {
+    "NAME":"Arikaree Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Elk Stag",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"Named by Colo Geographic Board 1914",
+    "COUNTY":"Grand",
+    "ObjectId":6,
+    "GlobalID":"{6C8A1BC9-73A8-4C03-90CB-661403C29F44}",
+    "CreationDate":44726.84444,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84444,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arikaree River",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Elk Stag",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Yuma",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Arikaree Town",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Elk Stag",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"Named by Colo Geographic Board 1877",
+    "COUNTY":"Washington",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Pawnee Buttes",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name; One of the Indian Peaks",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Weld",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6321872,40.07933377 ]
+    },
+    "properties": {
+    "NAME":"Pawnee Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name; One of the Indian Peaks",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Pawnee",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Grand",
+    "ObjectId":8,
+    "GlobalID":"{E447B956-C1CA-4CB5-ADCB-307D1BB278F4}",
+    "CreationDate":44726.84444,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.84444,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.59738,39.39773 ]
+    },
+    "properties": {
+    "NAME":"Shawnee Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Shawnee",
+    "COMMENT":"Named by DSP&P RR in 1880.",
+    "COUNTY":"Park",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Manitou Park",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"spirit",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Algonquian",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Teller",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Manitou Springs",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"spirit. Known as \"Villa La Font\" (Fountain Village) until 1885",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Algonquian",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"El Paso",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Mishawaka",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"at the land of elk. ",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Algonquian",
+    "COMMENT":"Probably named after Mishawaka, Indiana; Named by Colo Geographic Board",
+    "COUNTY":"Larimer",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Muckawanago Creek",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"bear's lair. Probably from a Wisconsin place name",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Algonquian",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Pitkin",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.3423,38.03367 ]
+    },
+    "properties": {
+    "NAME":"Neoga Mountain",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Seneca word for deer",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Algonquian",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Hinsdale",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Squaw Pass",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Algonquian",
+    "COMMENT":"Was Soda Hill Pass until 1916 when an Indian names was thought desireable",
+    "COUNTY":"Clear Creek",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5899724,40.79918056 ]
+    },
+    "properties": {
+    "NAME":"Red Feather Lakes",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Named for Cherokee Chief Redfeather",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Cherokee",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Larimer",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6601695,40.21735592 ]
+    },
+    "properties": {
+    "NAME":"Tanima Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"liver eaters",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Comanche",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Boulder",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7831077,40.17421844 ]
+    },
+    "properties": {
+    "NAME":"Acoma, Mount",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name; Named by Colo Geographic Board",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Keresan",
+    "COMMENT":"Named for Acoma tribe in New Mexico",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6658995,40.19761959 ]
+    },
+    "properties": {
+    "NAME":"Mahana Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Supposedly what the Taos called the Comanche",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Keresan",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Boulder",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6455406,40.05142046 ]
+    },
+    "properties": {
+    "NAME":"Navajo Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name: One of the Indian Peaks",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Navajo",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Boulder",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.75562,38.30646 ]
+    },
+    "properties": {
+    "NAME":"Neegronda Reservoir",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"broad water.",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Osage",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Kiowa",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.68439,38.33616 ]
+    },
+    "properties": {
+    "NAME":"Neenoshe Reservoir",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"principal water",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Osage",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Kiowa",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.65002,38.29414 ]
+    },
+    "properties": {
+    "NAME":"Neeskah Reservoir",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"entrails water",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Osage",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Kiowa",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6326376,40.09630535 ]
+    },
+    "properties": {
+    "NAME":"Paiute Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name; those who go and return ",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Paiute",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.49384,39.80171 ]
+    },
+    "properties": {
+    "NAME":"Black Hawk Town",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Black Hawk",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Saux and Fox",
+    "COMMENT":"Mining town named for Saux and Fox Chief in 1859-1864",
+    "COUNTY":"Gilpin",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Shoshone",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name",
+    "LOCATION":"Central Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Shoshoni",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Garfield",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6381177,40.0650661 ]
+    },
+    "properties": {
+    "NAME":"Shoshoni Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Tribe Name; One of the Indian Peaks",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Shoshoni",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6663741,40.168084 ]
+    },
+    "properties": {
+    "NAME":"Ogalalla Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"he scatters his own. ",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Sioux",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Cuerno Verde Park",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name: Green Horn",
+    "LOCATION":"Eastern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Spanish",
+    "COMMENT":"Name of Comanche Chief killed in 1779",
+    "COUNTY":"Park",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Greenhorn Town",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Cuerno Verde",
+    "LOCATION":"Southeast Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Spanish",
+    "COMMENT":"Name of Comanche Chief killed in 1779",
+    "COUNTY":"Pueblo",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.38642,38.72085 ]
+    },
+    "properties": {
+    "NAME":"Guero, Mount",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Also Huero: \"fair in complexion\";",
+    "LOCATION":"Southern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Spanish",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Gunnison",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.63297,37.11493 ]
+    },
+    "properties": {
+    "NAME":"Ignacio Town",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"Chiefs Name; Chief Ignacio of the Weminuch Band",
+    "LOCATION":"Southwest Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Spanish",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"La Plata",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Ute",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"high in the mountains",
+    "LOCATION":"Several Locations",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Spanish",
+    "COMMENT":"Ute Creek n=14; Ute Peak n=3; Ute Pass n=5",
+    "COUNTY":"Many",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Apache City",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"",
+    "LOCATION":"",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Yavapai",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Huerfano",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Apache Creek",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"",
+    "LOCATION":"",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Yavapai",
+    "COMMENT":"Named by Colo Geographic Board",
+    "COUNTY":"Many",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.6506303,40.05651846 ]
+    },
+    "properties": {
+    "NAME":"Apache Peak",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"",
+    "LOCATION":"Indian Peaks",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"Yavapai",
+    "COMMENT":"Proposed by NPS (?) in 1914",
+    "COUNTY":"Grand",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.9769,38.6807 ]
+    },
+    "properties": {
+    "NAME":"Gateway",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"",
+    "LOCATION":"Western Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"",
+    "COMMENT":"So called because of location on old Ute Trail",
+    "COUNTY":"Mesa",
+    "ObjectId":17,
+    "GlobalID":"{EEC6F6F9-2668-4BB4-9441-C005589AFE59}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8414945,39.98966346 ]
+    },
+    "properties": {
+    "NAME":"Tabernash Town",
+    "NATIVE_AMERICAN_NAME":"",
+    "MEANING":"having a camp. ",
+    "LOCATION":"Northern Colorado",
+    "LANGUAGE":"Settler",
+    "SUBLANGUAGE":"",
+    "COMMENT":"Ute Indian killed here in 1879;  Named by local rancher",
+    "COUNTY":"Grand",
+    "ObjectId":35,
+    "GlobalID":"{4165CC07-7C0E-4D06-A7C0-B72527112105}",
+    "CreationDate":44726.83611,
+    "Creator":"Seth.Greer_ucboulder",
+    "EditDate":44726.83611,
+    "Editor":"Seth.Greer_ucboulder",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "NAME":"Bent's Fort",
+    "NATIVE_AMERICAN_NAME":"xo-pa-jō",
+    "MEANING":"Rock Dust/Adobe House",
+    "LOCATION":"",
+    "LANGUAGE":"",
+    "SUBLANGUAGE":"",
+    "COMMENT":"",
+    "COUNTY":"",
+    "ObjectId":null,
+    "GlobalID":"",
+    "CreationDate":null,
+    "Creator":"",
+    "EditDate":null,
+    "Editor":"",
+    "FIELD17":"",
+    "FIELD18":""
+    }
+  }
+]
+}
